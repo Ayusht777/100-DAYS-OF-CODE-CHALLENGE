@@ -47,10 +47,10 @@
   
      - [x] Creating string's and assigning to a variable
      - [x] Concatenation of string
-          - [x] Concatenation of string
-          - [x] % formatting (old style)
-          - [x] .format() method
-          - [x] f-string method 
+     - [x] string fromatting
+       - [x] % formatting (old style)
+       - [x] .format() method
+       - [x] f-string method 
          
  
  ![Screenshot (3)](https://user-images.githubusercontent.com/106388215/179247620-6c942f5c-143c-4f98-9391-512f344c955c.png)
