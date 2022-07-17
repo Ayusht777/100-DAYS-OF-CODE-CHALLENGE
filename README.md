@@ -39,6 +39,7 @@
 ## :chart_with_upwards_trend: 100DaysOfCode Day-to-Day Progress
 
 ### :date: *DAY 1*
+* :calendar: 15-07-2022 FRIDAY
 * Basic Syntax
 * Data Types
   - [x] NUMBERS
@@ -54,10 +55,80 @@
          
  
  ![Screenshot (3)](https://user-images.githubusercontent.com/106388215/179247620-6c942f5c-143c-4f98-9391-512f344c955c.png)
-  
-        
+ ### :date: *DAY 2*
+ * :calendar: 16/07/2022 saturday
+ -[x]  String InBuilt Functions
+   - [x]  upper() method
+   - [x]  lower() method
+   - [x]  title() method
+   - [x]  capitalize() method
+   - [x]  casefold() method
+   - [x]  center() method
+   - [x]  ljust() method
+   - [x]  rjust() method
+   - [x]  count() method
+   - [x]  startswith() method
+   - [x]  endswith() method
+   - [x]  expandtabs() method
+   - [x]  encode() method
+   - [x]  find() method
+   - [x]  rfind() method
+   - [x]  index() method
+   - [x]  rindex() method
+   - [x]  isalnum() method
+   - [x]  isalpha() method
+   - [x]  isdecimal() method
+   - [x]  isdigit() method
+   - [x]  isidentifier() method
+   - [x]  isnumeric() method
+   - [x]  isspace() method
+   - [x]  islower() method
+   - [x]  isupper() method
+   - [x]  istitle() method
+   - [x]  join() method
+   - [x]  swapcase() method
+   - [x]  strip() method
+   - [x]  lstrip() method
+   - [x]  rstrip() method
+   
+![IMG_20220717_211101](https://user-images.githubusercontent.com/106388215/179405961-9d349d20-4996-4c79-ac61-71e1d87ed797.jpg)
 
+### :date: *DAY 3*
+ * :calendar: 17/07/2022 sunday
+ - [x] String InBuilt Functions
+    - [x] partition() method 
+    - [x] rpartition() method 
+    - [x] maketrans() method
+    - [x] translate() method
+    - [x] replace() method 
+    - [x] split() method 
+    - [x] rsplit() method
+    - [x] splitlines() method 
+    - [x] zfill() method
+    - [x] format_map() method
+    
+ - [x] list
+  - [x] creating lists
+  - [x] indexing and slicing with the list
+  - [x] list concatenation
+  - [x] deleting list elements using del function
+  - [x] List InBuilt Functions
+    - [x] append() method
+    - [x] extend() method
+    - [x] index() method 
+    - [x] remove() method
+    - [x] pop() method
+    - [x] count() method
+    - [x] reverse() method
+    - [x] sort() method
+         - [x] sorted() method
+    - [x] copy() method
+    - [x] clear() method
 
+    
+    
+    
+    ![Screenshot (6)](https://user-images.githubusercontent.com/106388215/179408675-b6731fc4-6350-408a-a388-9907a9114e97.png)
 
 
 ## Contributors
