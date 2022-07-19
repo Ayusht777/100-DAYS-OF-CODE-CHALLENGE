@@ -157,6 +157,42 @@
    - [x] sorted() function
   
 ![Screenshot (7)](https://user-images.githubusercontent.com/106388215/179551420-0760e021-fe51-486f-9e76-3404513aa124.png)
+### :date: *DAY 5*
+ * :calendar: 19/07/2022 tuesday
+ - [x] tuple
+   - [x] creating a tuple
+   - [x] indexing and slicing with tuple
+   - [x] concatenation with tuple
+   - [x] nesting of tuples
+ - [x] Sets
+   - [x] creating a sets
+   - [x] set operations
+     - [x] Union
+     - [x] intersection
+     - [x] difference
+     - [x] symmetric difference
+   - [x] set methods
+     - [x] add() method 
+     - [x] update() method 
+     - [x] remove() method
+     - [x] discard() method
+     - [x] copy() method
+     - [x] clear() method 
+     - [x] pop() method 
+     - [x] union() method
+     - [x] difference() method 
+     - [x] difference_update() method
+     - [x] intersection() method 
+     - [x] intersection_update() method
+     - [x] symmetric_difference() method
+     - [x] symmetric_difference_update() method
+     - [x] isdisjoint() method 
+     - [x] issubset() method
+     - [x] issuperset() method
+   - [x] frozenset()
+ 
+![Screenshot (8)](https://user-images.githubusercontent.com/106388215/179795633-25497d0b-80e5-458c-8847-22f09ba7e072.png)
+
 
 
 ## Contributors
