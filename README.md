@@ -128,7 +128,35 @@
     
     
     
-    ![Screenshot (6)](https://user-images.githubusercontent.com/106388215/179408675-b6731fc4-6350-408a-a388-9907a9114e97.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/106388215/179408675-b6731fc4-6350-408a-a388-9907a9114e97.png)
+
+### :date: *DAY 4*
+ * :calendar: 18/07/2022 monday
+ - [x] dictionary
+  - [x] creating new dictionary
+  - [x] accessing elements from dictionary
+  - [x] changing/updating and adding dictionary elements
+  - [x] nesting with dictionaries
+  - [x] dictionary membership test
+  - [x] dictionary methods
+   - [x] clear() method 
+   - [x] copy() method 
+   - [x] fromkeys() method
+   - [x] get() method
+   - [x] items() method 
+   - [x] keys() method 
+   - [x] values() method
+   - [x] popitem() method
+   - [x] pop() method
+   - [x] setdefault() method 
+   - [x] update() method
+  - [x] dictionary built-in functions
+   - [x] all() function
+   - [x] any() function
+   - [x] len() function
+   - [x] sorted() function
+  
+![Screenshot (7)](https://user-images.githubusercontent.com/106388215/179551420-0760e021-fe51-486f-9e76-3404513aa124.png)
 
 
 ## Contributors
