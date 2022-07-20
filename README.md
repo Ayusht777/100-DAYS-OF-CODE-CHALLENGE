@@ -192,8 +192,34 @@
    - [x] frozenset()
  
 ![Screenshot (8)](https://user-images.githubusercontent.com/106388215/179795633-25497d0b-80e5-458c-8847-22f09ba7e072.png)
-
-
+### :date: *DAY 6*
+ * :calendar: 20/07/2022 wednesday
+ - [x] operators
+   - [x] arithmetic operators
+   - [x] assignment operators
+   - [x] comparison operators
+   - [x] logical operators
+   - [x] ldentity operators
+   - [x] membership operators
+ - [x] booleans
+   - [x] creating a boolean
+ -[x] array
+   - [x] creating array
+   - [x] accessing array elements
+    - [x] indexing and Slicing in Arrays
+   - [x] changing and adding elements
+   - [x] array methods
+    - [x] append() method
+    - [x] extend() method
+    - [x] insert() method
+    - [x] fromlist() method
+    - [x] remove() method
+    - [x] pop() method
+    - [x] reverse() method
+    - [x] count() method
+    - [x] index() method
+  
+![Screenshot (10)](https://user-images.githubusercontent.com/106388215/180035789-57298284-72d8-4971-9640-333402d82276.png)
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
