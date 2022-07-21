@@ -220,6 +220,20 @@
     - [x] index() method
   
 ![Screenshot (10)](https://user-images.githubusercontent.com/106388215/180035789-57298284-72d8-4971-9640-333402d82276.png)
+### :date: *DAY 7*
+ * :calendar: 21/07/2022 thursday
+ - [x] output using print() function
+ - [x] input using input() function
+ - [x] importing modules
+ - [x] Flow Control
+   - [x] if statement
+   - [x] elif statement
+   - [x] else statement
+   - [x] nested if elif else statement
+   - [x] loops
+     - [x] for loop
+
+![Screenshot (11)](https://user-images.githubusercontent.com/106388215/180262667-0136b25d-11ea-453b-8488-573b8561d19e.png)
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
