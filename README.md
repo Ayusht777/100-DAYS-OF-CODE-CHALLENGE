@@ -234,6 +234,30 @@
      - [x] for loop
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/106388215/180262667-0136b25d-11ea-453b-8488-573b8561d19e.png)
+### :date: *DAY 8*
+ * :calendar: 22/07/2022 friday
+ - [x] more about for loop
+    - [x] dictionary unpacking
+    - [x] tuple unpacking
+    - [x] nested for loop
+    - [x] Pattern
+       - [x] square pattern
+       - [x] hollow square pattern
+       - [x] left triangle star pattern
+       - [x] right triangle star pattern
+       - [x] left number triangle pattern
+     - [x] a Q:question:. on hackerrank on for loop
+       ![Screenshot (12)](https://user-images.githubusercontent.com/106388215/180494949-d223524f-ac13-4ae3-ad85-020d3f0faad2.png)
+
+ - [x] while loop
+   - [x] nested while loop
+ - [x] break , continue , pass statement
+ - [x] useful operator
+   - [x] range() function
+ 
+![Screenshot (13)](https://user-images.githubusercontent.com/106388215/180495920-37b3f074-8be3-4fcb-90c8-a4edb22b5eae.png)
+
+
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
