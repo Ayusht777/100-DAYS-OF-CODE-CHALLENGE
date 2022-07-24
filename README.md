@@ -257,6 +257,21 @@
  
 ![Screenshot (13)](https://user-images.githubusercontent.com/106388215/180495920-37b3f074-8be3-4fcb-90c8-a4edb22b5eae.png)
 
+### :date: *DAY 9*
+ * :calendar: 23/07/2022 saturday
+ - [x] useful operator
+   - [x] enumerate() function
+   - [x] zip() function
+ - [x] comprehensions
+   - [x] list comprehensions
+   - [x] dictionary comprehension
+   - [x] set comprehensions
+   - [ ] generator comprehensions (going to learn soon)
+   
+![Screenshot (14)](https://user-images.githubusercontent.com/106388215/180614860-7ca06b01-2fa0-4e70-a63a-208d6d09199b.png)
+    
+  
+
 
 
 ## Contributors
