@@ -270,9 +270,17 @@
    
 ![Screenshot (14)](https://user-images.githubusercontent.com/106388215/180614860-7ca06b01-2fa0-4e70-a63a-208d6d09199b.png)
     
-  
+### :date: *DAY 10*
+ * :calendar: 24/07/2022 sunday
+ - [x] small project's
+   - [x] acronyms program
+   - [x] BMI Calculator
+ 
+ **:bookmark_tabs: The website where I learn more about this topic's.**
+ 
+  <a href="url"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" align="left" height="24" width="24" ></a>[60 Python Projects with Source Code](https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512)
 
-
+![Screenshot (15)](https://user-images.githubusercontent.com/106388215/180656396-ed46623d-3b33-4fed-97a8-6bdbe6c011e4.png)
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
