@@ -282,5 +282,30 @@
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/106388215/180656396-ed46623d-3b33-4fed-97a8-6bdbe6c011e4.png)
 
+### :date: *DAY 11*
+ * :calendar: 25/07/2022 monday
+ - [x] functions
+  - [x] creating function's
+    - [x] without arg & return value
+    - [x] with arg & return value
+    - [x] with arg & without return value
+    - [x] without arg & with return value
+  - [x] function to check word in string
+  - [x] pig latin function
+  - [x] to check odd even function
+  - [x] to check odd even in list function
+  - [x] tuple unpacking function
+  - [x] three cup monte function
+
+  
+ **:bookmark_tabs: The Course website where I learn about this topic's.**
+ 
+  <a href="url"><img src="https://user-images.githubusercontent.com/106388215/180828056-c04891f5-961c-477d-a713-77a6f2025fff.png" align="left" height="40" width="75" ></a>[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+
+
+![Screenshot (16)](https://user-images.githubusercontent.com/106388215/180828877-8c501258-ecd7-4b5f-8d79-b41046764b5f.png)
+
+  
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
