@@ -305,6 +305,36 @@
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/106388215/180828877-8c501258-ecd7-4b5f-8d79-b41046764b5f.png)
 
+### :date: *DAY 12*
+ * :calendar: 26/07/2022 tuesday
+ - [x] functions
+ - [x] arbitrary arguments (*arg)
+ - [x] keyword argument (**kwarg)
+ - [x] lesser of two evens() function
+ - [x] animal crackers() function
+ - [x] makes twenty() function
+ - [x] change_1or4_letter() function
+ - [x] reverse_phrase() function
+ - [x] built-in functions
+   - [x] abs() function
+   - [x] all() function 
+   - [x] any() function
+   - [x] ascii() function
+   - [x] chr() function
+   - [x] ord() function
+   - [x] id() function
+   - [x] bin() function
+ 
+ **:bookmark_tabs: The Course website where I learn about this topic's.**
+ 
+  <a href="url"><img src="https://user-images.githubusercontent.com/106388215/180828056-c04891f5-961c-477d-a713-77a6f2025fff.png" align="left" height="40" width="75" ></a>[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) 
+  
+  
+<a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
+
+
+![Screenshot (17)](https://user-images.githubusercontent.com/106388215/181076876-44507fc9-dd84-4971-9204-5234aa59e4a5.png)
+ 
   
 
 ## Contributors
