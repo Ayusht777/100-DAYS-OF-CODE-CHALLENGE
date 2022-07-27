@@ -334,6 +334,35 @@
 
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/106388215/181076876-44507fc9-dd84-4971-9204-5234aa59e4a5.png)
+
+### :date: *DAY 13*
+ * :calendar: 27/07/2022 wednesday
+ - [x] functions
+   - [x] bool() function
+   - [x] bytearray() function
+   - [x] callable() function
+   - [x] bytes() function
+   - [x] complex() function 
+   - [x] dict() function
+   - [x] dir() function
+   - [x] divmod() function
+   - [x] eval() function
+   - [x] exec() function
+   - [x] filter() function
+   - [x] float() function
+   - [x] hash() function
+   - [x] hex() function
+   - [x] int() function
+   - [x] iter() function
+   (Skipped all class functions going to learn after class object)
+   
+   **:bookmark_tabs: The Course website where I learn about this topic's.**
+  
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
+   
+  ![Screenshot (18)](https://user-images.githubusercontent.com/106388215/181310032-ad76bcf3-e3da-4609-8212-6834b66ee0a4.png)
+
+   
  
   
 
