@@ -391,7 +391,26 @@
 
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/106388215/181596647-a3577958-19e1-4e34-9d5a-8103f6e59e92.png)
+  
+  
+  ### :date: *DAY 15*
+ * :calendar: 29/07/2022 friday
+ - [x] function
+  - [x] count primes number function
+ - [x]  recursive function
+  - [x] factorial function
+  
+   **:bookmark_tabs: The Course website where I learn about this topic's.**
+ 
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Recursion Functions](https://www.programiz.com/python-programming/recursion)
 
+
+<a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Recursion in Python: An Introduction](https://realpython.com/python-recursion/)
+
+![Screenshot (20)](https://user-images.githubusercontent.com/106388215/181802343-5d0b4a4b-be68-4055-9051-27f67f39b297.png)
+
+  
+  
    
 
    
