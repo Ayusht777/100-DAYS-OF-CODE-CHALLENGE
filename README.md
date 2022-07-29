@@ -361,6 +361,38 @@
   <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
    
   ![Screenshot (18)](https://user-images.githubusercontent.com/106388215/181310032-ad76bcf3-e3da-4609-8212-6834b66ee0a4.png)
+  
+  ### :date: *DAY 14*
+ * :calendar: 28/07/2022 thursday
+ - [x] in-built functions
+   - [x] max() function
+   - [x] min() function
+   - [x] next() function
+   - [x] oct() function
+   - [x] pow() function
+   - [x] repr() function
+   - [x] round() function
+   - [x] slice() function
+   - [x] str() function
+   - [x] tuple() function
+  -[x] functions
+   - [x] f33() function # Find 3 to next 3
+   - [x] paper_doll() function #  PAPER DOLL
+   - [x] blackjack() function
+   - [x] summer_69() function #  SUMMER OF '69
+   - [x] spy_game() function # SPY GAME
+   
+    **:bookmark_tabs: The Course website where I learn about this topic's.**
+ 
+  <a href="url"><img src="https://user-images.githubusercontent.com/106388215/180828056-c04891f5-961c-477d-a713-77a6f2025fff.png" align="left" height="40" width="75" ></a>[2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) 
+  
+  
+<a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
+
+
+![Screenshot (19)](https://user-images.githubusercontent.com/106388215/181596647-a3577958-19e1-4e34-9d5a-8103f6e59e92.png)
+
+   
 
    
  
