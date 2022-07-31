@@ -434,6 +434,37 @@
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/106388215/181933521-b15a9437-8657-4af4-937a-b20b37a52d7d.png)
 
+### :date: *DAY 17*
+ * :calendar: 31/07/2022 sunday
+ - [x] nested statement & scope
+   - [x] LEGB rule 
+       - [x] local variable
+       - [x] global variable
+       - [x] non-local variable
+ - [x] modules 
+    - [x] created my own module
+ - [x] function created by using modules
+   - [x] volume_of_sphere() function
+   - [x] ran_check() function
+   - [x] up_low() function 
+   - [x] unique_list() function
+   - [x] multi_list() function
+   - [x] ispangrams() function
+ 
+  **:bookmark_tabs: The Course website where I learn about this topic's.**
+ 
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Global, Local and Nonlocal variables](https://www.programiz.com/python-programming/global-local-nonlocal-variables)
+ ________
+ <a href="url"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" align="left" height="24" width="24" ></a>[Global, Local and Nonlocal variables in Python](https://towardsdatascience.com/global-local-and-nonlocal-variables-in-python-6b11c20d73b0)
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Global, Local and Nonlocal variables](https://www.programiz.com/python-programming/global-local-nonlocal-variables)
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Modules](https://www.programiz.com/python-programming/modules)
+________
+<a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python Modules and Packages – An Introduction](https://realpython.com/python-modules-packages/)
+
+![Screenshot (22)](https://user-images.githubusercontent.com/106388215/182038984-ccada8c5-5f4e-4da4-9d34-de8ef3657eb6.png)
+
   
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
