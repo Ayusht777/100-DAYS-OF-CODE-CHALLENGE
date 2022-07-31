@@ -409,13 +409,31 @@
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/106388215/181802343-5d0b4a4b-be68-4055-9051-27f67f39b297.png)
 
+ ### :date: *DAY 16*
+ * :calendar: 30/07/2022 saturday
+ - [x] lambda/anonymous function
+  - [x] map() function
+   - [x] starmap() function 
+  - [x] filter() function
+  - [x] reduce() function
+  - [x] created function
+  - [x] splicer() function
+  - [x] palindrome() function
   
-  
-   
-
-   
+  **:bookmark_tabs: The Course website where I learn about this topic's.**
  
-  
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Anonymous/Lambda Function](https://www.programiz.com/python-programming/anonymous-function)
 
+
+<a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python's map(): Processing Iterables Without a Loop](https://realpython.com/python-map-function/)
+
+<a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python's filter(): Extract Values From Iterables](https://realpython.com/python-filter-function/)
+
+<a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python's reduce(): From Functional to Pythonic Style](https://realpython.com/python-reduce-function/)
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/106388215/181933521-b15a9437-8657-4af4-937a-b20b37a52d7d.png)
+
+  
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
