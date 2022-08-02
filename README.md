@@ -465,6 +465,18 @@ ________
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/106388215/182038984-ccada8c5-5f4e-4da4-9d34-de8ef3657eb6.png)
 
+### :date: *DAY 18*
+ * :calendar: 01/08/2022 monday
+ - [x] package's
+ - [x] created my own package
+ - [x] created a project on tic_tac_toe game (Non GUI version)
+ 
+**:bookmark_tabs: The Course website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Package](https://www.programiz.com/python-programming/package)
+ 
+ ![Screenshot (25)](https://user-images.githubusercontent.com/106388215/182207408-42b4a3aa-aaa0-4771-8f21-61af17114d31.png)
+
   
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
