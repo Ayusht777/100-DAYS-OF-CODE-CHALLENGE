@@ -477,6 +477,56 @@ ________
  
  ![Screenshot (25)](https://user-images.githubusercontent.com/106388215/182207408-42b4a3aa-aaa0-4771-8f21-61af17114d31.png)
 
+### :date: *DAY 19*
+ * :calendar: 02/08/2022 tuesday
+ - [x] file handling
+ - [x] reading a file
+ - [x] writing a file
+ - [x] edtiting a file
+ - [x] file handling mode
+   - [x] r (read) mode
+   - [x] w (write) mode
+   - [x] a (append) mode
+   - [x] + mode
+     - [x] r+ mode
+     - [x] w+ mode
+     - [x] a+ mode
+     - [x] r + w mode
+   - [x] t mode
+     - [x] tr mode
+     - [x] tw mode
+     - [x] ta mode
+   - [x] x mode
+   - [x] x+ mode
+   - [x] b (binary) mode
+     - [x] rb (read in binary) mode
+     - [x] rw (write in binary) mode
+ - [x] file handling in-built method
+    - [x] open() function
+    - [x] close() function
+    - [x] read() function
+    - [x] readline() function
+    - [x] readlines() function
+    - [x] tell() function
+    - [x] seek() function
+    - [x] seekable() function
+    - [x] truncate() function
+    - [x] write() function
+    - [x] writelines() function
+    - [x] writeable() function
+    - [x] fileno() function
+    - [x] flush() function
+    - [x] isatty() function
+    
+   **:bookmark_tabs: The Course website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python File I/O](https://www.programiz.com/python-programming/file-operation) 
+ _______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Working With Files in Python](https://realpython.com/working-with-files-in-python/)
+     
+ ![Screenshot (26)](https://user-images.githubusercontent.com/106388215/182447590-a7e78e5f-f461-4e16-ae96-96e7bb5b2444.png)
+
+   
   
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
