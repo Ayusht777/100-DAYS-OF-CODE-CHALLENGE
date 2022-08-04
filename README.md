@@ -526,7 +526,41 @@ ________
      
  ![Screenshot (26)](https://user-images.githubusercontent.com/106388215/182447590-a7e78e5f-f461-4e16-ae96-96e7bb5b2444.png)
 
+### :date: *DAY 20*
+ * :calendar: 03/08/2022 wednesday
+ - [x] file handling
+ - [x] try - finally through file handling
+ - [x] with through file handling
+ - [x] os module
+    - [x] listdir() function
+    - [x] scandir() function
+    - [x] mkdir() function
+    - [x] makedirs() function
+    - [x] remove() function
+    - [x] rmdir() function
+    - [x] rename() function 
+  - [x] pathlib module
+    - [x] Path() function
+  - [x] fnmatch module
+    - [x] fnmatch() function
+  - [x] glob module
+    - [x] glob function
+  - [x] tempfile module
+    - [x] TemporaryFile() function
+  - [x] shutil module
+    - [x] copy() function
+    - [x] copytree() function
+    - [x] move() function  
    
+    **:bookmark_tabs: The Course website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python File I/O](https://www.programiz.com/python-programming/file-operation) 
+ _______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Working With Files in Python](https://realpython.com/working-with-files-in-python/)
+_______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
+     
+   ![Untitled design](https://user-images.githubusercontent.com/106388215/182660003-0a098fe7-69df-4891-b134-2fe11fffd5b5.png)
   
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
