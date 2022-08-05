@@ -561,6 +561,28 @@ _______
  <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Reading and Writing Files in Python (Guide)](https://realpython.com/read-write-files-python/)
      
    ![Untitled design](https://user-images.githubusercontent.com/106388215/182660003-0a098fe7-69df-4891-b134-2fe11fffd5b5.png)
+   
+   ### :date: *DAY 21*
+ * :calendar: 04/08/2022 thursday
+ - [x] Cryptography (Caesar cipher) Project
+    - [x] Menu (work in progress)
+    - [x] encrypt
+    - [x] decrypt
+    
+    ![Untitled design](https://user-images.githubusercontent.com/106388215/183105175-181b9115-c30b-456b-9220-80371ac7fae1.png)
+   
+   ### :date: *DAY 22*
+* :calendar: 05/08/2022 thursday
+ - [x] Cryptography (Caesar cipher) Project
+    - [x] created project package
+       - [x] Caesar cipher module
+       - [x] menu module
+       - [x] menu2 module (work in progress)
+       
+       
+![08](https://user-images.githubusercontent.com/106388215/183105716-e495ed52-305b-425d-bf49-2510cf840d03.png)
+
+    
   
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
