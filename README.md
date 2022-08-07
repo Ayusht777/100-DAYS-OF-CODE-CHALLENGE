@@ -572,7 +572,7 @@ _______
     ![Untitled design](https://user-images.githubusercontent.com/106388215/183105175-181b9115-c30b-456b-9220-80371ac7fae1.png)
    
    ### :date: *DAY 22*
-* :calendar: 05/08/2022 thursday
+* :calendar: 05/08/2022 friday
  - [x] Cryptography (Caesar cipher) Project
     - [x] created project package
        - [x] Caesar cipher module
@@ -582,7 +582,17 @@ _______
        
 ![08](https://user-images.githubusercontent.com/106388215/183105716-e495ed52-305b-425d-bf49-2510cf840d03.png)
 
+  ### :date: *DAY 23*
+* :calendar: 06/08/2022 saturday
+- [x] Cryptography (Caesar cipher) Project   | **COMPLETED** |
+    - [x] combine all the module in one
+    - [x] module name PROJECT_1 and function cryptography
+    - [x] added file encoding and decoding feature's
     
-  
+    **MORE FEATURES WILL BE GOING TO ADD SOON**
+
+    
+  ![08](https://user-images.githubusercontent.com/106388215/183259197-a16c926d-cfde-4a41-895f-3d340c85c5b4.png)
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
