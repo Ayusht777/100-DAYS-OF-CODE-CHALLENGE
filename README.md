@@ -593,6 +593,24 @@ _______
 
     
   ![08](https://user-images.githubusercontent.com/106388215/183259197-a16c926d-cfde-4a41-895f-3d340c85c5b4.png)
+  
+  ### :date: *DAY 24*
+* :calendar: 07/08/2022 sunday
+- [x] working with .csv files
+- [x] using csv module
+  - [x] csv.reader() function
+  - [x] csv.writer() function
+  - [x] writerow() function
+  - [x] writerows() function
+  - [x] csv.DictReader() function
+  - [x] csv.DictWriter() function
+- [x] pandas library
+  - [x] pandas.read_csv() function
+  - [x] pandas.to_csv() function
+  **GOING TO LEARN PANDAS LIBARAY AFTER 100 DAYS OF CODE OR NEXT 100 DAYS OF CODE**
+  
+  ![08(1)](https://user-images.githubusercontent.com/106388215/183302199-a60ffb73-f2fa-4412-91ce-6642fb948802.png)
+
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
