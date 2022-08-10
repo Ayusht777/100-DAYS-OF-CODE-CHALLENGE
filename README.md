@@ -621,9 +621,9 @@ _______
    **:bookmark_tabs: The Courses and website where I learn about this topic's.**
  ________
  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Object Oriented Programming](https://www.programiz.com/python-programming/object-oriented-programming) 
- _______
- <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
-_______
+  ________
+  <a href="url"><img src="https://i.postimg.cc/RCyZHJNJ/image.png" align="left" height="48" width="48" ></a>[Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+  _______
  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
  [Python OOPs Concepts]( https://www.geeksforgeeks.org/python-oops-concepts/)
 _______
@@ -632,7 +632,24 @@ _______
  
  ![25](https://user-images.githubusercontent.com/106388215/183717257-b52d9636-f9e0-40b2-b136-e86d6be3fc7d.png)
 
+### :date: *DAY 26*
+* :calendar: 10/08/2022 Wednesday
+- [x] method in class
+   - [x] class Laptop
+   - [x] class Triangle
+   - [x] class Circle
+   - [x] question on class
+     - [x] car class 
   
+  
+  **:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ________
+  <a href="url"><img src="https://i.postimg.cc/RCyZHJNJ/image.png" align="left" height="48" width="48" ></a>[Object-Oriented Programming (OOP) in Python 3](https://realpython.com/python3-object-oriented-programming/)
+  _______  
+  
+  
+ ![26](https://user-images.githubusercontent.com/106388215/183973155-3252e624-f449-4155-8ec8-83e49c3ca69d.png)
 
+   
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
