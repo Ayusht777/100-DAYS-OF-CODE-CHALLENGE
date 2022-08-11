@@ -650,6 +650,24 @@ _______
   
  ![26](https://user-images.githubusercontent.com/106388215/183973155-3252e624-f449-4155-8ec8-83e49c3ca69d.png)
 
+### :date: *DAY 27*
+* :calendar: 11/08/2022 Thursday
+- [x] Inheritance 
+  - [x] methods overriding 
+     - [x] super() function
+      
+    
+ **:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Inheritance](https://www.programiz.com/python-programming/inheritance) 
+  ________
+  <a href="url"><img src="https://i.postimg.cc/RCyZHJNJ/image.png" align="left" height="48" width="48" ></a>[Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/#composition-in-python)
+ _______
+       
+ 
+ ![27](https://user-images.githubusercontent.com/106388215/184195152-5d74fc4d-abfb-4b1a-865f-29720dbe7771.png)
+
+ 
    
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
