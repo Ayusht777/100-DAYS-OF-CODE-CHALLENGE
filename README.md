@@ -691,6 +691,49 @@ _______
  ______
  
 ![28](https://user-images.githubusercontent.com/106388215/184412720-9b45928b-3df5-4860-bb78-9c574ecde2fd.gif)
+
+### :date: *DAY 29*
+* :calendar: 13/08/2022 Saturday
+- [x] Composition
+- [x] Encapsulation
+  - [x] Method for Encapsulation
+    - [x] Using Single Underscore
+    - [x] Using Double Underscore
+  - [x] Access Private Members Out Of The Class
+    - [x] Name Mangling Method
+    - [x] Getters and Setters Method
+  - [x] Polymorphism 
+   - [x] Polymorphism with Inheritance
+   
+  **:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/RCyZHJNJ/image.png" align="left" height="48" width="48" ></a>[Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/#composition-in-python)
+ _______
+ <a href="url"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" align="left" height="24" width="48" ></a>[The Best Way to Understand Composition in Python: 5 Case Studies and Solution](https://medium.com/swlh/the-best-way-to-understand-composition-in-python-5-case-studies-and-solution-4b23a6a2cc38)
+ ______
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Inheritance and Composition in Python](https://www.geeksforgeeks.org/inheritance-and-composition-in-python/)
+ ______
+  <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
+ [Encapsulation In Python](https://www.askpython.com/python/oops/encapsulation-in-python)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Encapsulation in Python](https://www.geeksforgeeks.org/encapsulation-in-python/?ref=lbp)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Polymorphism in Python](https://www.geeksforgeeks.org/polymorphism-in-python/)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Polymorphism in Python](https://www.geeksforgeeks.org/polymorphism-in-python/)
+ ______
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Polymorphism in Python](https://www.programiz.com/python-programming/polymorphism) 
+  _____
+  <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
+ [Polymorphism in Python](https://www.askpython.com/python/oops/polymorphism-in-python)
+ ______
+ 
+ ![29](https://user-images.githubusercontent.com/106388215/184502237-31ff6537-166e-421f-a824-52014903b728.gif)
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
 
