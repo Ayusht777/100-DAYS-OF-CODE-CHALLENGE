@@ -742,8 +742,8 @@ _______
    - [x] __len__ method
    - [x] __add__ method
   
-  **:bookmark_tabs: The Courses and website where I learn about this topic's.**
-  ______
+**:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
   <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
  [Understanding Abstraction in Python](https://www.askpython.com/python/oops/abstraction-in-python)
  ______
