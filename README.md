@@ -733,6 +733,29 @@ _______
  ______
  
  ![29](https://user-images.githubusercontent.com/106388215/184502237-31ff6537-166e-421f-a824-52014903b728.gif)
+ 
+ ### :date: *DAY 30*
+* :calendar: 14/08/2022 Sunday
+- [x] Abstraction
+- [x] Dunder/Magic Methods
+   - [x] __str__ method
+   - [x] __len__ method
+   - [x] __add__ method
+  
+**:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
+  <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
+ [Understanding Abstraction in Python](https://www.askpython.com/python/oops/abstraction-in-python)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Abstract Classes in Python](https://www.geeksforgeeks.org/abstract-classes-in-python/)
+ ______
+  <a href="url"></a>
+ [Dunder/Magic Methods in Python](https://www.realpythonproject.com/python-magic-oop-dunder/)
+ ______
+ 
+ ![30](https://user-images.githubusercontent.com/106388215/184546767-793b4a5f-b407-4341-a9c1-08af6eccac85.gif)
+
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
