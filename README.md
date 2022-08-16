@@ -756,6 +756,41 @@ _______
  
  ![30](https://user-images.githubusercontent.com/106388215/184546767-793b4a5f-b407-4341-a9c1-08af6eccac85.gif)
 
+### :date: *DAY 31*
+* :calendar: 15/08/2022 Monday
+- [x] Operator Overloading (more about operator )
+- [x] Assignment's
+   - [x] class Line() 
+       - [x] distance()
+       - [x] slope
+   - [x] Cylinder() class
+       - [x] volume()
+       - [x] surface_area()
+    - [x] class Bank
+       - [x] deposit()
+       - [x] withdraw()
+ - [x] Errors and Exceptions Handling
+    - [x] Types of Error
+        - [x]  Syntax errors
+        - [x]  Logical errors (Exceptions)
+        - [x]  Indentation Error
+     - [x] Errors Handling
+        - [x] try:
+        - [x] except:
+        - [x] else:
+        - [x] finally:
+
+
+**:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Operator Overloading](https://www.programiz.com/python-programming/operator-overloading) 
+ _____    
+  <a href="url"><img src="https://i.postimg.cc/4N30vLWP/image.png" align="left" height="48" width="48" ></a>[Exception and Error Handling in Python](https://www.datacamp.com/tutorial/exception-handling-python) 
+ _____    
+
+
+![31](https://user-images.githubusercontent.com/106388215/184691732-c5a39367-e781-41b2-929c-17db382e02eb.png)
+
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
