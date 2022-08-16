@@ -779,7 +779,7 @@ _______
         - [x] except:
         - [x] else:
         - [x] finally:
-
+       
 
 **:bookmark_tabs: The Courses and website where I learn about this topic's.**
  ______
@@ -791,6 +791,41 @@ _______
 
 ![31](https://user-images.githubusercontent.com/106388215/184691732-c5a39367-e781-41b2-929c-17db382e02eb.png)
 
+### :date: *DAY 32*
+* :calendar: 16/08/2022 Tuesday
+- [x] Built-in Exceptions
+   - [x] Arithmetic Error
+      - [x] Zero Division Error
+      - [x] OverFlow Error
+      - [x] Floating Point Error
+   - [x] Assertion Error
+   - [x] Attribute Error
+   - [x] Import Error
+   - [x] Lookup Error
+      - [x] IndexError
+      - [x] KeyError
+   - [x] Memory Error
+   - [x] Name Error
+   - [x] Type Error
+   - [x] Value Error
+- [x] Errors and Exceptions Assignment
+   - [x] TypeError question
+   - [x] ZeroDivisionError question
+- [x] Custom Exceptions
+   - [x] Creating Custom Exceptions
+   - [x] NZEC error
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception) 
+ _____    
+  <a href="url"><img src="https://i.postimg.cc/4N30vLWP/image.png" align="left" height="48" width="48" ></a>[Exception and Error Handling in Python](https://www.datacamp.com/tutorial/exception-handling-python) 
+ _____  
+   <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [NZEC error in Python](https://www.geeksforgeeks.org/nzec-error-python/?ref=lbp)
+ ______
+ 
+![32](https://user-images.githubusercontent.com/106388215/184932187-c88ac6ea-d0ec-4fa2-b032-d3baf8c3388a.png)
 
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
