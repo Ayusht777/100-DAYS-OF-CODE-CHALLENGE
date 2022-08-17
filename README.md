@@ -827,6 +827,21 @@ _______
  
 ![32](https://user-images.githubusercontent.com/106388215/184932187-c88ac6ea-d0ec-4fa2-b032-d3baf8c3388a.png)
 
+### :date: *DAY 33*
+* :calendar: 17/08/2022 Wednesday
+- [x] Pylint
+- [x] Unittest
+- [x] Project 2 
+   - [x] War_card_game
+ 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______  
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python | Unit Test Objects Patching | Set-1](https://www.geeksforgeeks.org/python-unit-test-objects-patching-set-1/?ref=lbp)
+ ______ 
+ 
+![33](https://user-images.githubusercontent.com/106388215/185190786-c4adae8e-ff0c-4ec8-9712-d81d831ba5fc.png)
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
 
