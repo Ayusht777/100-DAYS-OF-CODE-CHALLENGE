@@ -667,7 +667,181 @@ _______
  
  ![27](https://user-images.githubusercontent.com/106388215/184195152-5d74fc4d-abfb-4b1a-865f-29720dbe7771.png)
 
+ ### :date: *DAY 28*
+* :calendar: 12/08/2022 Friday
+- [x] Types Of Inheritance 
+  - [x] Single Inheritance (already learned yesterday)
+  - [x] Multiple Inheritance
+  - [x] Multilevel Inheritance
+  - [x] Hierarchical Inheritance (already learned yesterday)
+  - [x] Hybrid Inheritance
+  
+  
+  **:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Multiple Inheritance](https://www.programiz.com/python-programming/multiple-inheritance) 
+  ________
+ <a href="url"><img src="https://i.postimg.cc/RCyZHJNJ/image.png" align="left" height="48" width="48" ></a>[Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/#composition-in-python)
+ _______
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Inheritance in Python](https://www.geeksforgeeks.org/inheritance-in-python/)
+ ______
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Types of inheritance Python](https://www.geeksforgeeks.org/types-of-inheritance-python/)
+ ______
  
+![28](https://user-images.githubusercontent.com/106388215/184412720-9b45928b-3df5-4860-bb78-9c574ecde2fd.gif)
+
+### :date: *DAY 29*
+* :calendar: 13/08/2022 Saturday
+- [x] Composition
+- [x] Encapsulation
+  - [x] Method for Encapsulation
+    - [x] Using Single Underscore
+    - [x] Using Double Underscore
+  - [x] Access Private Members Out Of The Class
+    - [x] Name Mangling Method
+    - [x] Getters and Setters Method
+  - [x] Polymorphism 
+   - [x] Polymorphism with Inheritance
    
+  **:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ________
+ <a href="url"><img src="https://i.postimg.cc/RCyZHJNJ/image.png" align="left" height="48" width="48" ></a>[Inheritance and Composition: A Python OOP Guide](https://realpython.com/inheritance-composition-python/#composition-in-python)
+ _______
+ <a href="url"><img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" align="left" height="24" width="48" ></a>[The Best Way to Understand Composition in Python: 5 Case Studies and Solution](https://medium.com/swlh/the-best-way-to-understand-composition-in-python-5-case-studies-and-solution-4b23a6a2cc38)
+ ______
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Inheritance and Composition in Python](https://www.geeksforgeeks.org/inheritance-and-composition-in-python/)
+ ______
+  <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
+ [Encapsulation In Python](https://www.askpython.com/python/oops/encapsulation-in-python)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Encapsulation in Python](https://www.geeksforgeeks.org/encapsulation-in-python/?ref=lbp)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Polymorphism in Python](https://www.geeksforgeeks.org/polymorphism-in-python/)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Polymorphism in Python](https://www.geeksforgeeks.org/polymorphism-in-python/)
+ ______
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Polymorphism in Python](https://www.programiz.com/python-programming/polymorphism) 
+  _____
+  <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
+ [Polymorphism in Python](https://www.askpython.com/python/oops/polymorphism-in-python)
+ ______
+ 
+ ![29](https://user-images.githubusercontent.com/106388215/184502237-31ff6537-166e-421f-a824-52014903b728.gif)
+ 
+ ### :date: *DAY 30*
+* :calendar: 14/08/2022 Sunday
+- [x] Abstraction
+- [x] Dunder/Magic Methods
+   - [x] __str__ method
+   - [x] __len__ method
+   - [x] __add__ method
+  
+**:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
+  <a href="url"><img src="https://i.postimg.cc/qBDTDLWX/image.png" align="left" height="48" width="48" ></a>
+ [Understanding Abstraction in Python](https://www.askpython.com/python/oops/abstraction-in-python)
+ ______
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Abstract Classes in Python](https://www.geeksforgeeks.org/abstract-classes-in-python/)
+ ______
+  <a href="url"></a>
+ [Dunder/Magic Methods in Python](https://www.realpythonproject.com/python-magic-oop-dunder/)
+ ______
+ 
+ ![30](https://user-images.githubusercontent.com/106388215/184546767-793b4a5f-b407-4341-a9c1-08af6eccac85.gif)
+
+### :date: *DAY 31*
+* :calendar: 15/08/2022 Monday
+- [x] Operator Overloading (more about operator )
+- [x] Assignment's
+   - [x] class Line() 
+       - [x] distance()
+       - [x] slope
+   - [x] Cylinder() class
+       - [x] volume()
+       - [x] surface_area()
+    - [x] class Bank
+       - [x] deposit()
+       - [x] withdraw()
+ - [x] Errors and Exceptions Handling
+    - [x] Types of Error
+        - [x]  Syntax errors
+        - [x]  Logical errors (Exceptions)
+        - [x]  Indentation Error
+     - [x] Errors Handling
+        - [x] try:
+        - [x] except:
+        - [x] else:
+        - [x] finally:
+       
+
+**:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Operator Overloading](https://www.programiz.com/python-programming/operator-overloading) 
+ _____    
+  <a href="url"><img src="https://i.postimg.cc/4N30vLWP/image.png" align="left" height="48" width="48" ></a>[Exception and Error Handling in Python](https://www.datacamp.com/tutorial/exception-handling-python) 
+ _____    
+
+
+![31](https://user-images.githubusercontent.com/106388215/184691732-c5a39367-e781-41b2-929c-17db382e02eb.png)
+
+### :date: *DAY 32*
+* :calendar: 16/08/2022 Tuesday
+- [x] Built-in Exceptions
+   - [x] Arithmetic Error
+      - [x] Zero Division Error
+      - [x] OverFlow Error
+      - [x] Floating Point Error
+   - [x] Assertion Error
+   - [x] Attribute Error
+   - [x] Import Error
+   - [x] Lookup Error
+      - [x] IndexError
+      - [x] KeyError
+   - [x] Memory Error
+   - [x] Name Error
+   - [x] Type Error
+   - [x] Value Error
+- [x] Errors and Exceptions Assignment
+   - [x] TypeError question
+   - [x] ZeroDivisionError question
+- [x] Custom Exceptions
+   - [x] Creating Custom Exceptions
+   - [x] NZEC error
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______
+  <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Custom Exceptions](https://www.programiz.com/python-programming/user-defined-exception) 
+ _____    
+  <a href="url"><img src="https://i.postimg.cc/4N30vLWP/image.png" align="left" height="48" width="48" ></a>[Exception and Error Handling in Python](https://www.datacamp.com/tutorial/exception-handling-python) 
+ _____  
+   <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [NZEC error in Python](https://www.geeksforgeeks.org/nzec-error-python/?ref=lbp)
+ ______
+ 
+![32](https://user-images.githubusercontent.com/106388215/184932187-c88ac6ea-d0ec-4fa2-b032-d3baf8c3388a.png)
+
+### :date: *DAY 33*
+* :calendar: 17/08/2022 Wednesday
+- [x] Pylint
+- [x] Unittest
+- [x] Project 2 
+   - [x] War_card_game
+ 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______  
+  <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python | Unit Test Objects Patching | Set-1](https://www.geeksforgeeks.org/python-unit-test-objects-patching-set-1/?ref=lbp)
+ ______ 
+ 
+![33](https://user-images.githubusercontent.com/106388215/185190786-c4adae8e-ff0c-4ec8-9712-d81d831ba5fc.png)
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
+
