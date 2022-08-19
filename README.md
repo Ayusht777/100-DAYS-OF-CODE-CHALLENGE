@@ -842,6 +842,12 @@ _______
  
 ![33](https://user-images.githubusercontent.com/106388215/185190786-c4adae8e-ff0c-4ec8-9712-d81d831ba5fc.png)
 
+### :date: *DAY 34*
+* :calendar: 18/08/2022 Thrusday
+- [x] War_card_game Project 2 Completed
+
+![34](https://user-images.githubusercontent.com/106388215/185459885-cce8a47c-38fb-4a97-8085-a3b5618b800c.png)
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
 
