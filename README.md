@@ -848,6 +848,33 @@ _______
 
 ![34](https://user-images.githubusercontent.com/106388215/185459885-cce8a47c-38fb-4a97-8085-a3b5618b800c.png)
 
+### :date: *DAY 35*
+* :calendar: 19/08/2022 Friday
+- [x] Closures
+   - [x] Nested functions 
+- [x] Decorators
+   - [x] Chaining in Decorators 
+- [x] Generators
+   - [x] yield
+   - [x] next()
+   - [x] iter()
+   - [x] fibonacci program with Generators
+   - [x] Generator Comprehension 
+   - [x] Iterators and Generators Assignment
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______  
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Closures](https://www.programiz.com/python-programming/closure) 
+ _____    
+  <a href="url"><img src="https://themillenniallibrarian.com/wp-content/uploads/2020/04/BCL-YT-Logo-New.png" align="left" height="48" width="48" ></a>[Programming Terms: Closures - How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ) 
+ ______
+<a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Decorators](https://www.programiz.com/python-programming/closure) 
+ ________
+<a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Generators](https://www.programiz.com/python-programming/generator) 
+ ______
+ 
+ ![35](https://user-images.githubusercontent.com/106388215/185673340-1b80e148-e4a7-40eb-8b7f-af59202b6308.png)
+
 ## Contributors
   * ayush talesara : :e-mail: talesarayush@gmail.com
 
