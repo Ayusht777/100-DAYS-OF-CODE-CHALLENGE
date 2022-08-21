@@ -875,6 +875,30 @@ _______
  
  ![35](https://user-images.githubusercontent.com/106388215/185673340-1b80e148-e4a7-40eb-8b7f-af59202b6308.png)
 
+### :date: *DAY 36*
+* :calendar: 20/08/2022 Saturday
+- [x] Property Decorator – @property
+- [x] RegEx
+  - [x] re Module
+      - [x] search()
+  - [x] Regex Metacharacters
+     - [x] \   – Backslash
+     - [x] [ ] – Square Brackets
+     - [x] ^   – Caret
+     
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+  <a href="url"><img src="https://themillenniallibrarian.com/wp-content/uploads/2020/04/BCL-YT-Logo-New.png" align="left" height="48" width="48" ></a>[Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw) 
+ ______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
+ _____ 
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Regular Expression in Python with Examples | Set 1](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+ ______
+ 
+ ![36](https://user-images.githubusercontent.com/106388215/185760445-4ee6b4db-ffdc-4a92-98cf-c3801ad9aaff.png)
+
 ## Contributors
+
   * ayush talesara : :e-mail: talesarayush@gmail.com
 
