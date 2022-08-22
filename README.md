@@ -941,8 +941,49 @@ _______
  
  ![37](https://user-images.githubusercontent.com/106388215/185802663-388604b3-0ba1-42da-b0e1-17c5df1c221d.png)
 
+ ### :date: *DAY 38*
+* :calendar: 22/08/2022 Monday
+- [x]  re Module Functions
+   - [x] Substitution Functions
+       - [x] re.sub()
+       - [x] re.subn()
+   - [x] Utility Functions
+       - [x] re.split()
+       - [x] re.escape()
+   - [x] Compiled Regex Objects in Python
+       - [x] re.compile()
+   - [x] Regular Expression Object Methods (all are same)
+       * re_obj.search(<string>[, <pos>[, <endpos>]])
+       * re_obj.match(<string>[, <pos>[, <endpos>]])
+       * re_obj.fullmatch(<string>[, <pos>[, <endpos>]])
+       * re_obj.findall(<string>[, <pos>[, <endpos>]])
+       * re_obj.finditer(<string>[, <pos>[, <endpos>]])
+   - [x] Match Object Methods and Attributes
+      - [x] match.group() 	
+      - [x] match.__getitem__() 	
+      - [x] match.groups() 	
+      - [x] match.groupdict() 	
+      - [x] match.expand() 	
+      - [x] match.start() 	
+      - [x] match.end() 	
+      - [x] match.span()
+   - [x] Match Object Attributes
+      - [x] match.pos
+      - [x] match.endpos 	
+      - [x] match.lastindex 	
+      - [x] match.lastgroup 	
+      - [x] match.re 	
+      - [x] match.string
  
- 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Regular Expression in Python with Examples | Set 1](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+ _____
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/#compiled-regex-objects-in-python)
+ ______
+
+![38](https://user-images.githubusercontent.com/106388215/185991318-8773e42c-f603-4039-8266-456558d490e5.png)
 
 ## Contributors
 
