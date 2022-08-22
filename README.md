@@ -897,6 +897,52 @@ _______
  ______
  
  ![36](https://user-images.githubusercontent.com/106388215/185760445-4ee6b4db-ffdc-4a92-98cf-c3801ad9aaff.png)
+ 
+ ### :date: *DAY 37*
+* :calendar: 21/08/2022 Sunday
+- [x] Regex Metacharacters
+   - [x] $ – Dollar
+   - [x] . – Dot
+   - [x] | – Or
+   - [x] ? – Question Mark
+   - [x] * – Star
+   - [x] + – Plus
+   - [x] {m}
+   - [x] {m, n} – Braces
+   - [x] (< regex >) – Group
+  * Special Sequences 
+   - [x] \A
+   - [x] \b
+   - [x] \B
+   - [x] \d
+   - [x] \D
+   - [x] \s
+   - [x] \S
+   - [x] \w
+   - [x] \W
+   - [x] \Z
+ - [x]  re Module Functions
+    - [x] Searching Functions
+       - [x] re.search()
+       - [x] re.match() 	
+       - [x] re.fullmatch() 
+       - [x] re.findall() 	
+       - [x] re.finditer()
+  
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Regular Expression in Python with Examples | Set 1](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+ ______
+  <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/#metacharacters-supported-by-the-re-module)
+ ______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)
+ ______
+ 
+ ![37](https://user-images.githubusercontent.com/106388215/185802663-388604b3-0ba1-42da-b0e1-17c5df1c221d.png)
+
+ 
+ 
 
 ## Contributors
 
