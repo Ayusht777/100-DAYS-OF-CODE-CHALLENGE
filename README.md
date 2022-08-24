@@ -1015,6 +1015,92 @@ _______
 
 ![39](https://user-images.githubusercontent.com/106388215/186212983-8a815e1b-6b98-4106-9296-f10ea29dc279.png)
 
+### :date: *DAY 40*
+* :calendar: 24/08/2022 Wednesday
+- [x] Collections Module
+   - [x] Namedtuple()
+      - [x] getattr()
+      - [x] _make() 
+      - [x] _asdict()
+      - [x] “**” (double star) operator
+      - [x] _fields
+      - [x] _replace()
+   - [x] Deque()
+      - [x] append()
+      - [x] appendleft()
+      - [x] pop()
+      - [x] popleft()
+      - [x] index(ele, beg, end)
+      - [x] insert(i, a) 
+      - [x] remove()
+      - [x] count()
+      - [x] extend(iterable)
+      - [x] extendleft(iterable)
+      - [x] reverse()
+      - [x] rotate()
+    - [x] UserDict()
+      - [x] data
+    - [x] UserList()
+    - [x] UserString()
+   _____________________ 
+ - [x] datetime module
+    - [x] date class
+       - [x] date Class Attributes
+          - [x] min
+          - [x] max
+          - [x] resolution
+          - [x] year
+          - [x] month
+          - [x] day
+       - [x] date Class Functions  
+          - [x] ctime()	
+          - [x] fromisocalendar()	
+          - [x] fromisoformat()	
+          - [x] fromordinal()	
+          - [x] fromtimestamp()	
+          - [x] isocalendar()	
+          - [x] isoformat()	
+          - [x] isoweekday()	
+          - [x] replace()	
+          - [x] timetuple()	
+          - [x] today()	
+          - [x] toordinal()	
+          - [x] weekday()	
+ 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Deque in Python]https://www.geeksforgeeks.org/deque-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Collections.UserDict in Python](https://www.geeksforgeeks.org/collections-userdict-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Collections.UserList in Python]https://www.geeksforgeeks.org/collections-userlist-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Collections.UserString in Python](https://www.geeksforgeeks.org/collections-userstring-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python datetime module](https://www.geeksforgeeks.org/python-datetime-module/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – Date Class](https://www.geeksforgeeks.org/python-datetime-date-class/) 
+ ______
+ <a href="url"><img src="https://i.postimg.cc/P50pjkPt/800px-Python-logo-notext-svg.png" align="left" height="48" width="48" ></a>[datetime — Basic date and time types](https://docs.python.org/3/library/datetime.html) 
+ 
+ 
+![40](https://user-images.githubusercontent.com/106388215/186490402-483004b9-c89e-4263-adc9-ee96e0069e8b.png)
+ 
+ 
+ 
+ 
+
+
+
 
 ## Contributors
 
