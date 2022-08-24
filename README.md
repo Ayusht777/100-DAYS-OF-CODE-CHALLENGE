@@ -985,6 +985,37 @@ _______
 
 ![38](https://user-images.githubusercontent.com/106388215/185991318-8773e42c-f603-4039-8266-456558d490e5.png)
 
+### :date: *DAY 39*
+* :calendar: 23/08/2022 Tuesday
+- [x] Collections Module
+   - [x] Counters
+      - [x] most_common()
+      - [x] subtract() 
+      - [x] total()
+      - [x] update()
+   - [x] OrderedDict
+   - [x] DefaultDict
+   - [x] Chainmap
+      - [x] maps
+      - [x] new_child()
+      
+ *:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Collections Module](https://www.geeksforgeeks.org/python-collections-module/)
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Counters in Python | Set 1 (Initialization and Updation)](https://www.geeksforgeeks.org/counters-in-python-set-1/)
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [OrderedDict in Python](https://www.geeksforgeeks.org/ordereddict-in-python/)
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [ChainMap in Python](https://www.geeksforgeeks.org/chainmap-in-python/)
+
+![39](https://user-images.githubusercontent.com/106388215/186212983-8a815e1b-6b98-4106-9296-f10ea29dc279.png)
+
+
 ## Contributors
 
   * ayush talesara : :e-mail: talesarayush@gmail.com
