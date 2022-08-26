@@ -1091,13 +1091,69 @@ _______
  [Python DateTime – Date Class](https://www.geeksforgeeks.org/python-datetime-date-class/) 
  ______
  <a href="url"><img src="https://i.postimg.cc/P50pjkPt/800px-Python-logo-notext-svg.png" align="left" height="48" width="48" ></a>[datetime — Basic date and time types](https://docs.python.org/3/library/datetime.html) 
- 
+ _____
  
 ![40](https://user-images.githubusercontent.com/106388215/186490402-483004b9-c89e-4263-adc9-ee96e0069e8b.png)
  
+### :date: *DAY 41*
+* :calendar: 25/08/2022 Thrusday
+- [x] datetime module
+   - [x] Time class
+      - [x] date Class Functions (similar to date class functions)
+   - [x] DateTime Class
+      - [x] datetime Class Functions
+         - [x] astimezone()
+         - [x] combine()
+         - [x] now()
+         - [x] time()
+         - [x] timez()
+         - [x] tzname()	
+         - [x] utcfromtimestamp()	
+         - [x] utcoffset()
+         - [x] utcnow()
+         - [x] strftime() and strptime()
+            - [x] %a
+            - [x] %A
+            - [x] %w
+            - [x] %d
+            - [x] %w
+            - [x] %b
+            - [x] %B
+            - [x] %m
+            - [x] %y
+            - [x] %Y
+            - [x] %H
+            - [x] %I
+            - [x] %p
+            - [x] %M
+            - [x] %S
+            - [x] %f
+            - [x] %z
+            - [x] %Z
+            - [x] %j
+            - [x] %U
+            - [x] %W
+            - [x] %G
+        
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python datetime module](https://www.geeksforgeeks.org/python-datetime-module/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – Time Class](https://www.geeksforgeeks.org/python-datetime-time-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – DateTime Class](https://www.geeksforgeeks.org/python-datetime-datetime-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python time strptime() function](https://www.geeksforgeeks.org/python-time-strptime-function/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – strptime() Function](https://www.geeksforgeeks.org/python-datetime-strptime-function/) 
+  _____    
  
- 
- 
+![41](https://user-images.githubusercontent.com/106388215/186737366-76e8e1f0-36f8-4b01-a3f5-143254d08ff5.png)
 
 
 
