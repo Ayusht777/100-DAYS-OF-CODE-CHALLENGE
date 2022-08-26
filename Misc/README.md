@@ -842,6 +842,323 @@ _______
  
 ![33](https://user-images.githubusercontent.com/106388215/185190786-c4adae8e-ff0c-4ec8-9712-d81d831ba5fc.png)
 
+### :date: *DAY 34*
+* :calendar: 18/08/2022 Thrusday
+- [x] War_card_game Project 2 Completed
+
+![34](https://user-images.githubusercontent.com/106388215/185459885-cce8a47c-38fb-4a97-8085-a3b5618b800c.png)
+
+### :date: *DAY 35*
+* :calendar: 19/08/2022 Friday
+- [x] Closures
+   - [x] Nested functions 
+- [x] Decorators
+   - [x] Chaining in Decorators 
+- [x] Generators
+   - [x] yield
+   - [x] next()
+   - [x] iter()
+   - [x] fibonacci program with Generators
+   - [x] Generator Comprehension 
+   - [x] Iterators and Generators Assignment
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ ______  
+ <a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Closures](https://www.programiz.com/python-programming/closure) 
+ _____    
+  <a href="url"><img src="https://themillenniallibrarian.com/wp-content/uploads/2020/04/BCL-YT-Logo-New.png" align="left" height="48" width="48" ></a>[Programming Terms: Closures - How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ) 
+ ______
+<a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Decorators](https://www.programiz.com/python-programming/closure) 
+ ________
+<a href="url"><img src="https://i.postimg.cc/j5R9TRSP/unnamed-removebg-preview.png" align="left" height="48" width="48" ></a>[Python Generators](https://www.programiz.com/python-programming/generator) 
+ ______
+ 
+ ![35](https://user-images.githubusercontent.com/106388215/185673340-1b80e148-e4a7-40eb-8b7f-af59202b6308.png)
+
+### :date: *DAY 36*
+* :calendar: 20/08/2022 Saturday
+- [x] Property Decorator – @property
+- [x] RegEx
+  - [x] re Module
+      - [x] search()
+  - [x] Regex Metacharacters
+     - [x] \   – Backslash
+     - [x] [ ] – Square Brackets
+     - [x] ^   – Caret
+     
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+  <a href="url"><img src="https://themillenniallibrarian.com/wp-content/uploads/2020/04/BCL-YT-Logo-New.png" align="left" height="48" width="48" ></a>[Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw) 
+ ______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/)
+ _____ 
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Regular Expression in Python with Examples | Set 1](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+ ______
+ 
+ ![36](https://user-images.githubusercontent.com/106388215/185760445-4ee6b4db-ffdc-4a92-98cf-c3801ad9aaff.png)
+ 
+ ### :date: *DAY 37*
+* :calendar: 21/08/2022 Sunday
+- [x] Regex Metacharacters
+   - [x] $ – Dollar
+   - [x] . – Dot
+   - [x] | – Or
+   - [x] ? – Question Mark
+   - [x] * – Star
+   - [x] + – Plus
+   - [x] {m}
+   - [x] {m, n} – Braces
+   - [x] (< regex >) – Group
+  * Special Sequences 
+   - [x] \A
+   - [x] \b
+   - [x] \B
+   - [x] \d
+   - [x] \D
+   - [x] \s
+   - [x] \S
+   - [x] \w
+   - [x] \W
+   - [x] \Z
+ - [x]  re Module Functions
+    - [x] Searching Functions
+       - [x] re.search()
+       - [x] re.match() 	
+       - [x] re.fullmatch() 
+       - [x] re.findall() 	
+       - [x] re.finditer()
+  
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Regular Expression in Python with Examples | Set 1](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+ ______
+  <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 1)](https://realpython.com/regex-python/#metacharacters-supported-by-the-re-module)
+ ______
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/)
+ ______
+ 
+ ![37](https://user-images.githubusercontent.com/106388215/185802663-388604b3-0ba1-42da-b0e1-17c5df1c221d.png)
+
+ ### :date: *DAY 38*
+* :calendar: 22/08/2022 Monday
+- [x]  re Module Functions
+   - [x] Substitution Functions
+       - [x] re.sub()
+       - [x] re.subn()
+   - [x] Utility Functions
+       - [x] re.split()
+       - [x] re.escape()
+   - [x] Compiled Regex Objects in Python
+       - [x] re.compile()
+   - [x] Regular Expression Object Methods (all are same)
+       * re_obj.search(<string>[, <pos>[, <endpos>]])
+       * re_obj.match(<string>[, <pos>[, <endpos>]])
+       * re_obj.fullmatch(<string>[, <pos>[, <endpos>]])
+       * re_obj.findall(<string>[, <pos>[, <endpos>]])
+       * re_obj.finditer(<string>[, <pos>[, <endpos>]])
+   - [x] Match Object Methods and Attributes
+      - [x] match.group() 	
+      - [x] match.__getitem__() 	
+      - [x] match.groups() 	
+      - [x] match.groupdict() 	
+      - [x] match.expand() 	
+      - [x] match.start() 	
+      - [x] match.end() 	
+      - [x] match.span()
+   - [x] Match Object Attributes
+      - [x] match.pos
+      - [x] match.endpos 	
+      - [x] match.lastindex 	
+      - [x] match.lastgroup 	
+      - [x] match.re 	
+      - [x] match.string
+ 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Regular Expression in Python with Examples | Set 1](https://www.geeksforgeeks.org/regular-expression-python-examples-set-1/)
+ _____
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Regular Expressions: Regexes in Python (Part 2)](https://realpython.com/regex-python-part-2/#compiled-regex-objects-in-python)
+ ______
+
+![38](https://user-images.githubusercontent.com/106388215/185991318-8773e42c-f603-4039-8266-456558d490e5.png)
+
+### :date: *DAY 39*
+* :calendar: 23/08/2022 Tuesday
+- [x] Collections Module
+   - [x] Counters
+      - [x] most_common()
+      - [x] subtract() 
+      - [x] total()
+      - [x] update()
+   - [x] OrderedDict
+   - [x] DefaultDict
+   - [x] Chainmap
+      - [x] maps
+      - [x] new_child()
+      
+ *:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Collections Module](https://www.geeksforgeeks.org/python-collections-module/)
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Counters in Python | Set 1 (Initialization and Updation)](https://www.geeksforgeeks.org/counters-in-python-set-1/)
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [OrderedDict in Python](https://www.geeksforgeeks.org/ordereddict-in-python/)
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [ChainMap in Python](https://www.geeksforgeeks.org/chainmap-in-python/)
+
+![39](https://user-images.githubusercontent.com/106388215/186212983-8a815e1b-6b98-4106-9296-f10ea29dc279.png)
+
+### :date: *DAY 40*
+* :calendar: 24/08/2022 Wednesday
+- [x] Collections Module
+   - [x] Namedtuple()
+      - [x] getattr()
+      - [x] _make() 
+      - [x] _asdict()
+      - [x] “**” (double star) operator
+      - [x] _fields
+      - [x] _replace()
+   - [x] Deque()
+      - [x] append()
+      - [x] appendleft()
+      - [x] pop()
+      - [x] popleft()
+      - [x] index(ele, beg, end)
+      - [x] insert(i, a) 
+      - [x] remove()
+      - [x] count()
+      - [x] extend(iterable)
+      - [x] extendleft(iterable)
+      - [x] reverse()
+      - [x] rotate()
+    - [x] UserDict()
+      - [x] data
+    - [x] UserList()
+    - [x] UserString()
+   _____________________ 
+ - [x] datetime module
+    - [x] date class
+       - [x] date Class Attributes
+          - [x] min
+          - [x] max
+          - [x] resolution
+          - [x] year
+          - [x] month
+          - [x] day
+       - [x] date Class Functions  
+          - [x] ctime()	
+          - [x] fromisocalendar()	
+          - [x] fromisoformat()	
+          - [x] fromordinal()	
+          - [x] fromtimestamp()	
+          - [x] isocalendar()	
+          - [x] isoformat()	
+          - [x] isoweekday()	
+          - [x] replace()	
+          - [x] timetuple()	
+          - [x] today()	
+          - [x] toordinal()	
+          - [x] weekday()	
+ 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Namedtuple in Python](https://www.geeksforgeeks.org/namedtuple-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Deque in Python]https://www.geeksforgeeks.org/deque-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Collections.UserDict in Python](https://www.geeksforgeeks.org/collections-userdict-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Collections.UserList in Python]https://www.geeksforgeeks.org/collections-userlist-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Collections.UserString in Python](https://www.geeksforgeeks.org/collections-userstring-in-python/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python datetime module](https://www.geeksforgeeks.org/python-datetime-module/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – Date Class](https://www.geeksforgeeks.org/python-datetime-date-class/) 
+ ______
+ <a href="url"><img src="https://i.postimg.cc/P50pjkPt/800px-Python-logo-notext-svg.png" align="left" height="48" width="48" ></a>[datetime — Basic date and time types](https://docs.python.org/3/library/datetime.html) 
+ _____
+ 
+![40](https://user-images.githubusercontent.com/106388215/186490402-483004b9-c89e-4263-adc9-ee96e0069e8b.png)
+ 
+### :date: *DAY 41*
+* :calendar: 25/08/2022 Thrusday
+- [x] datetime module
+   - [x] Time class
+      - [x] date Class Functions (similar to date class functions)
+   - [x] DateTime Class
+      - [x] datetime Class Functions
+         - [x] astimezone()
+         - [x] combine()
+         - [x] now()
+         - [x] time()
+         - [x] timez()
+         - [x] tzname()	
+         - [x] utcfromtimestamp()	
+         - [x] utcoffset()
+         - [x] utcnow()
+         - [x] strftime() and strptime()
+            - [x] %a
+            - [x] %A
+            - [x] %w
+            - [x] %d
+            - [x] %w
+            - [x] %b
+            - [x] %B
+            - [x] %m
+            - [x] %y
+            - [x] %Y
+            - [x] %H
+            - [x] %I
+            - [x] %p
+            - [x] %M
+            - [x] %S
+            - [x] %f
+            - [x] %z
+            - [x] %Z
+            - [x] %j
+            - [x] %U
+            - [x] %W
+            - [x] %G
+        
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python datetime module](https://www.geeksforgeeks.org/python-datetime-module/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – Time Class](https://www.geeksforgeeks.org/python-datetime-time-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – DateTime Class](https://www.geeksforgeeks.org/python-datetime-datetime-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python time strptime() function](https://www.geeksforgeeks.org/python-time-strptime-function/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – strptime() Function](https://www.geeksforgeeks.org/python-datetime-strptime-function/) 
+  _____    
+ 
+![41](https://user-images.githubusercontent.com/106388215/186737366-76e8e1f0-36f8-4b01-a3f5-143254d08ff5.png)
+
+
+
+
 ## Contributors
+
   * ayush talesara : :e-mail: talesarayush@gmail.com
 
