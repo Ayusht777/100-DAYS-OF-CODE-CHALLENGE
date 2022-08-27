@@ -1155,6 +1155,88 @@ _______
  
 ![41](https://user-images.githubusercontent.com/106388215/186737366-76e8e1f0-36f8-4b01-a3f5-143254d08ff5.png)
 
+### :date: *DAY 42*
+* :calendar: 26/08/2022 Friday
+- [x] datetime module
+   - [x] Timedelta Class
+       - [x] Timedelta Class Functions
+           - [x] Addition (+)	
+           - [x] Subtraction (-)	
+           - [x] Multiplication (*)	
+           - [x] Division (/)	
+           - [x] Floor division (//)	
+           - [x] Modulo (%)	
+           - [x] +(timedelta)	
+           - [x] -(timedelta)	
+           - [x] abs(timedelta)	
+           - [x] str(timedelta)	
+           - [x] repr(timedelta)
+- [x] math module
+   - [x] ceil(x)	
+   - [x] copysign(x, y)	
+   - [x] factorial(x)	
+   - [x] floor(x)
+   - [x] gcd(x, y)
+   - [x] isinf(x)	
+   - [x] isnan(x)
+   - [x] exp(x)	
+   - [x] log(x[, b])	
+   - [x] log1p(x)
+   - [x] log2(x)	
+   - [x] log10(x)	
+   - [x] pow(x, y)	
+   - [x] sqrt(x)	
+   - [x] acos(x)
+   - [x] asin(x)	
+   - [x] atan(x)	
+   - [x] cos(x)	
+   - [x] sin(x)	
+   - [x] tan(x)	
+   - [x] degrees(x)	
+   - [x] radians(x)	
+   - [x] cosh(x)	
+   - [x] sinh(x)	
+   - [x] tanh(x)	
+   - [x] gamma(x)
+- [x] random module
+   - [x] seed()	
+   - [x] getstate()	
+   - [x] setstate()	
+   - [x] getrandbits()	
+   - [x] randrange()	
+   - [x] randint()	
+   - [x] choice()	
+   - [x] choices()	
+   - [x] sample()	
+   - [x] random()	
+   - [x] uniform()	
+   - [x] triangular()	
+   - [x] betavariate()	
+   - [x] expovariate()	
+   - [x] gammavariate()	
+   - [x] gauss()	
+   - [x] lognormvariate()	
+   - [x] normalvariate()	
+   - [x] vonmisesvariate()	
+   - [x] paretovariate()	
+   - [x] weibullvariate()
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python datetime module](https://www.geeksforgeeks.org/python-datetime-module/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – Timedelta Class](https://www.geeksforgeeks.org/python-datetime-timedelta-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Math Module](https://www.geeksforgeeks.org/python-datetime-datetime-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Random Module](https://www.geeksforgeeks.org/python-random-module/) 
+  _____    
+ 
+![42](https://user-images.githubusercontent.com/106388215/186966015-fee73db0-a15b-4623-9d9e-1aba46f4930b.png)
 
 
 
