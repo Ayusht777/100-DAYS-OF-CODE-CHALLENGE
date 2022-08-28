@@ -1238,7 +1238,28 @@ _______
  
 ![42](https://user-images.githubusercontent.com/106388215/186966015-fee73db0-a15b-4623-9d9e-1aba46f4930b.png)
 
+### :date: *DAY 43*
+* :calendar: 27/08/2022 Saturday
+- [x] Python Debugger
+   - [x] pdb module
+       - [x] set_trace()
+   - [x] Timing the python code
+       - [x] time module
+       - [x] timeit module 
+       - [x] %%timeit
+       - [x] datetime
+          - [x] now()
 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [How to check the execution time of Python script ?](https://www.geeksforgeeks.org/how-to-check-the-execution-time-of-python-script/) 
+ _____
+ 
+ ![43](https://user-images.githubusercontent.com/106388215/187040588-a90956a3-cede-484e-a07c-648960a643bf.png)
+
+ 
+  
 
 ## Contributors
 
