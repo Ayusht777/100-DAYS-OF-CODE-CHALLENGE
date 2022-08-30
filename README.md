@@ -1258,8 +1258,41 @@ _______
  
  ![43](https://user-images.githubusercontent.com/106388215/187040588-a90956a3-cede-484e-a07c-648960a643bf.png)
 
+### :date: *DAY 44*
+* :calendar: 28/08/2022 Sunday
+- [x] ZIPPING AND UNZIPPING FILE 
+   - [x] zipfile module
+       - [x] ZipFile()
+       - [x] namelist()
+       - [x] infolist()
+       - [x] extract()
+       - [x] extractall()
+    - [x] shutil module
+       - [x] make_archive()
+       - [x] unpack_archive()
+- [x] GUI WITH PYTHON 
+   - [x] tkinter module
+      - [x] window
+         - [x] Tk() class
+      - [x] widget
+         - [x] Label() class
+            - [x] pack()
+            - [x] mainloop()
+      - [x] hello world GUI Program       
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Introduction to Tkinter](https://www.geeksforgeeks.org/introduction-to-tkinter/) 
+ _____
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python GUI Programming With Tkinter](https://realpython.com/python-gui-tkinter/)
+ ________
  
-  
+  ![44](https://user-images.githubusercontent.com/106388215/187087514-6fe62779-c510-4ede-9b2a-86fd9f1cf1df.png)
+
 
 ## Contributors
 
