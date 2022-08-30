@@ -1293,6 +1293,27 @@ _______
  
   ![44](https://user-images.githubusercontent.com/106388215/187087514-6fe62779-c510-4ede-9b2a-86fd9f1cf1df.png)
 
+### :date: *DAY 45*
+* :calendar: 30/08/2022 Tuesday
+- [x] tkinter module
+   - [x] Working With Widgets
+       - [x] Label
+          - [x] Displaying Text With Label Widgets
+       - [x] Button
+          - [x] Displaying Clickable Buttons With Button Widgets
+          - [x] Add style to tkinter button
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python GUI Programming With Tkinter](https://realpython.com/python-gui-tkinter/)
+ ________         
+ 
+ ![45](https://user-images.githubusercontent.com/106388215/187487697-5d179632-9e66-4ba6-9d50-7d73c0a32078.png)
+
+       
 
 ## Contributors
 
