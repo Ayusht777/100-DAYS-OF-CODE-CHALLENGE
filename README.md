@@ -1313,6 +1313,31 @@ _______
  
  ![45](https://user-images.githubusercontent.com/106388215/187487697-5d179632-9e66-4ba6-9d50-7d73c0a32078.png)
 
+
+### :date: *DAY 46*
+* :calendar: 31/08/2022 Wednesday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Radiobutton
+      - [x] Checkbutton 
+      - [x] Canvas
+      - [x] Combobox
+      - [x] maxsize() method 
+      - [x] minsize() method
+      - [x] resizable() method 
+      - [x] Entry 
+      - [x] USER_PASSWORD PROGRAM GUI
+      - [x] GMAIL GENERATOR PROGRAM GUI
+      
+      
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![46](https://user-images.githubusercontent.com/106388215/187716439-f072f0e6-5d58-40ea-9634-4b252f1b43bb.png)
+
        
 
 ## Contributors
