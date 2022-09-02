@@ -1338,7 +1338,25 @@ _______
  
  ![46](https://user-images.githubusercontent.com/106388215/187716439-f072f0e6-5d58-40ea-9634-4b252f1b43bb.png)
 
-       
+ ### :date: *DAY 47*
+* :calendar: 01/09/2022 Thursday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Text Widget
+      - [x] Message widget
+      - [x] Menus   
+      - [x] GMAIL GENERATOR PROGRAM GUI (UPDATE - it will going to display the gen gamil)
+      - [x] FILE MENU BAR GUI
+  
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ ![47](https://user-images.githubusercontent.com/106388215/187957653-1e7f0dbc-b3c3-413b-9d76-b76212b35606.png)
+
+
+      
 
 ## Contributors
 
