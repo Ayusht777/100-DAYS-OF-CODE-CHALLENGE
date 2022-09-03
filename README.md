@@ -1356,6 +1356,24 @@ _______
  ![47](https://user-images.githubusercontent.com/106388215/187957653-1e7f0dbc-b3c3-413b-9d76-b76212b35606.png)
 
 
+### :date: *DAY 48*
+* :calendar: 02/09/2022 Friday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Menubutton widget
+      - [x] Spinbox widget
+      - [x] Progressbar widget
+      - [x] Scrollbar Widget
+      
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![48](https://user-images.githubusercontent.com/106388215/188198153-fe5ffa9f-e4d4-4757-8511-38da13f400bc.png)
+
+
       
 
 ## Contributors
