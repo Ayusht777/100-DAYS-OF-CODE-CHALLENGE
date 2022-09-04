@@ -1373,7 +1373,24 @@ _______
  
  ![48](https://user-images.githubusercontent.com/106388215/188198153-fe5ffa9f-e4d4-4757-8511-38da13f400bc.png)
 
+### :date: *DAY 49*
+* :calendar: 03/09/2022 Saturday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] ListBox 
+      - [x] Frame
+      - [x] double scrollbar
+      - [x] Scale
+      
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![49](https://user-images.githubusercontent.com/106388215/188277572-c61e18ac-f519-4817-9b84-d23b54cca156.png)
 
+    
       
 
 ## Contributors
