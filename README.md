@@ -1390,7 +1390,23 @@ _______
  
  ![49](https://user-images.githubusercontent.com/106388215/188277572-c61e18ac-f519-4817-9b84-d23b54cca156.png)
 
-    
+ ### :date: *DAY 50*
+* :calendar: 43/09/2022 Sunday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Treeview widgets
+      - [x] Toplevel widget
+        - [x] file dialogs
+        - [x] MessageBox Widget
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![50](https://user-images.githubusercontent.com/106388215/188317345-13c914dc-44fc-4b53-be97-f36707881b3a.png)
+
+ 
       
 
 ## Contributors
