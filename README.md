@@ -1406,7 +1406,28 @@ _______
  
  ![50](https://user-images.githubusercontent.com/106388215/188317345-13c914dc-44fc-4b53-be97-f36707881b3a.png)
 
+ ### :date: *DAY 50*
+* :calendar: 43/09/2022 Sunday
+- [x] tkinter module
+   - [x] Toplevel Widgets
+      - [x] Change Icon for Tkinter MessageBox
+      - [x] Choose color Dialog
+   - [x] Geometry Management
+      - [x] Place() method 
+      - [x] Grid() method 
+      - [x] Pack() method 
+      - [x] PanedWindow Widget 
+   - [x] Binding Functions
+   
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
  
+ ![51](https://user-images.githubusercontent.com/106388215/188465231-b75aa2d8-ab0b-440d-a66b-1d7efd124867.png)
+
+   
       
 
 ## Contributors
