@@ -1391,7 +1391,7 @@ _______
  ![49](https://user-images.githubusercontent.com/106388215/188277572-c61e18ac-f519-4817-9b84-d23b54cca156.png)
 
  ### :date: *DAY 50*
-* :calendar: 43/09/2022 Sunday
+* :calendar: 04/09/2022 Sunday
 - [x] tkinter module
    - [x] Working With Widgets
       - [x] Treeview widgets
@@ -1406,8 +1406,8 @@ _______
  
  ![50](https://user-images.githubusercontent.com/106388215/188317345-13c914dc-44fc-4b53-be97-f36707881b3a.png)
 
- ### :date: *DAY 50*
-* :calendar: 43/09/2022 Sunday
+ ### :date: *DAY 51*
+* :calendar: 05/09/2022 Monday
 - [x] tkinter module
    - [x] Toplevel Widgets
       - [x] Change Icon for Tkinter MessageBox
@@ -1426,6 +1426,20 @@ _______
  _____
  
  ![51](https://user-images.githubusercontent.com/106388215/188465231-b75aa2d8-ab0b-440d-a66b-1d7efd124867.png)
+
+### :date: *DAY 52*
+* :calendar: 06/09/2022 Tuesday
+- [x] tkinter module
+   - [x] Working with Images in Tkinter
+- [x] Clock[GUI]--Project-3
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![52](https://user-images.githubusercontent.com/106388215/188689584-d103746e-4db5-47b0-9331-cd13bb67388c.png)
+
 
    
       
