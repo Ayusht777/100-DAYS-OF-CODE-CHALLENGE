@@ -1448,6 +1448,14 @@ _______
 
 https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027-9771-3a1f891cd57c.mp4
 
+### :date: *DAY 54*
+* :calendar: 08/09/2022 Thrusday
+- [x] GUI Register And Login System Project Using Tkinter Project 4
+   - [x] Added Singup Button Function And Window
+   
+   ![54](https://user-images.githubusercontent.com/106388215/189153680-98041c16-7eb1-4742-8341-1b76aa4c5a53.png)
+
+
 
    
       
