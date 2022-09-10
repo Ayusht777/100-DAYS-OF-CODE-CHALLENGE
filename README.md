@@ -1457,7 +1457,17 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 
 
-   
+### :date: *DAY 55*
+* :calendar: 09/09/2022 Friday
+- [x] GUI Register And Login System Project Using Tkinter Project 4 (COMPLETED)
+   - [x] Merged Signup Button And Sign-in And Their Window
+   - [x] Converted .py to .exe with logo and database
+ 
+![55](https://user-images.githubusercontent.com/106388215/189419906-d15e68c7-0ecb-408f-8bed-b908b7a851b5.png)
+
+
+
+     
       
 
 ## Contributors
