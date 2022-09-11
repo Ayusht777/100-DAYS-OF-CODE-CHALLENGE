@@ -26,9 +26,9 @@
 ---
 ## :dart: Goals
 
-- [ ] Learning Python from Basic to Advanced.
+   ~~Learning Python from Basic to Advanced.~~
 
-- [ ] Creating At Least 4 Projects In Python.
+   ~~Creating At Least 4 Projects In Python.~~
 
 - [ ] Learning Data Structure & Algorithms.
 
@@ -1465,6 +1465,13 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
 ![55](https://user-images.githubusercontent.com/106388215/189419906-d15e68c7-0ecb-408f-8bed-b908b7a851b5.png)
 
+### :date: *DAY 56*
+* :calendar: 10/09/2022 Saturday
+- [x] Basic of c++
+- [x] first program
+- [x] section challenge problem solved
+
+![56](https://user-images.githubusercontent.com/106388215/189494797-91ec62c6-ef8e-46db-b885-18dc59bd4765.png)
 
 
      
