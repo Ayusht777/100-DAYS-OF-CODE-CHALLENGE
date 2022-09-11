@@ -1,4 +1,4 @@
-// Day- 5️ of 100dayofcode [/09/2022 Saturday]
+// Day- 5️6 of 100dayofcode [10/09/2022 Saturday]
 //  linking error
 
 #include <iostream>
