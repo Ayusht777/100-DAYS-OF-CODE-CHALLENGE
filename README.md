@@ -1482,7 +1482,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![57](https://user-images.githubusercontent.com/106388215/189539571-bbae16d6-16c8-4199-9b07-10e405f5f472.png)
 
-     
+### :date: *DAY 58*
+* :calendar: 12/09/2022 Monday
+- [x] Variables
+- [x] global and local variables
+- [x] data types
+
+![58](https://user-images.githubusercontent.com/106388215/189682618-343a0501-37b7-4fe6-912d-d0ab7522ebd2.png)
+
+
       
 
 ## Contributors
