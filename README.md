@@ -1473,6 +1473,14 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![56](https://user-images.githubusercontent.com/106388215/189494797-91ec62c6-ef8e-46db-b885-18dc59bd4765.png)
 
+### :date: *DAY 57*
+* :calendar: 11/09/2022 Sunday
+- [x] Preprocesser
+- [x] comments
+- [x] Namespaces
+- [x] Basic I/O 
+
+![57](https://user-images.githubusercontent.com/106388215/189539571-bbae16d6-16c8-4199-9b07-10e405f5f472.png)
 
      
       
