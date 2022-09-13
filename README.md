@@ -1490,6 +1490,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![58](https://user-images.githubusercontent.com/106388215/189682618-343a0501-37b7-4fe6-912d-d0ab7522ebd2.png)
 
+### :date: *DAY 59*
+* :calendar: 13/09/2022 Tuesday
+- [x] climit library
+- [x] sizeof function
+- [x] section challenge
+- [x] array
+- [x] multi-dimension array
+
+![59](https://user-images.githubusercontent.com/106388215/189964028-8e45dff3-8953-438a-a67e-ef8f7c8f5459.png)
+
 
       
 
