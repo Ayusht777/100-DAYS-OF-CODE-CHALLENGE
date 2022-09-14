@@ -1501,6 +1501,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 ![59](https://user-images.githubusercontent.com/106388215/189964028-8e45dff3-8953-438a-a67e-ef8f7c8f5459.png)
 
 
+### :date: *DAY 60*
+* :calendar: 14/09/2022 Wenesday
+- [x] Vector
+- [x] 2-d Vector
+- [x] at() method
+- [x] push_back() method
+
+![60](https://user-images.githubusercontent.com/106388215/190201842-e8726dd9-03ed-43d9-acdc-8eff284f479b.png)
+
       
 
 ## Contributors
