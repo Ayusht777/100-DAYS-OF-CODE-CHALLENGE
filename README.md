@@ -1510,6 +1510,14 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![60](https://user-images.githubusercontent.com/106388215/190201842-e8726dd9-03ed-43d9-acdc-8eff284f479b.png)
 
+### :date: *DAY 61*
+* :calendar: 15/09/2022 Thrusday
+- [x] Vector Questions
+- [x] Arithmetic Operators
+- [x] Increment and Decrement Operators
+
+![61](https://user-images.githubusercontent.com/106388215/190446433-f8aa7eeb-2329-492b-bb67-b9e879775e11.png)
+
       
 
 ## Contributors
