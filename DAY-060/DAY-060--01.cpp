@@ -1,4 +1,4 @@
-// Day - 560 of 100dayofcode [14/09/2022 Wenesday]
+// Day - 60 of 100dayofcode [14/09/2022 Wenesday]
 
 #include <iostream>
 #include <vector>
