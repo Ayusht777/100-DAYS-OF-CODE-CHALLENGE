@@ -26,9 +26,9 @@
 ---
 ## :dart: Goals
 
-- [ ] Learning Python from Basic to Advanced.
+   ~~Learning Python from Basic to Advanced.~~
 
-- [ ] Creating At Least 4 Projects In Python.
+   ~~Creating At Least 4 Projects In Python.~~
 
 - [ ] Learning Data Structure & Algorithms.
 
@@ -1155,8 +1155,362 @@ _______
  
 ![41](https://user-images.githubusercontent.com/106388215/186737366-76e8e1f0-36f8-4b01-a3f5-143254d08ff5.png)
 
+### :date: *DAY 42*
+* :calendar: 26/08/2022 Friday
+- [x] datetime module
+   - [x] Timedelta Class
+       - [x] Timedelta Class Functions
+           - [x] Addition (+)	
+           - [x] Subtraction (-)	
+           - [x] Multiplication (*)	
+           - [x] Division (/)	
+           - [x] Floor division (//)	
+           - [x] Modulo (%)	
+           - [x] +(timedelta)	
+           - [x] -(timedelta)	
+           - [x] abs(timedelta)	
+           - [x] str(timedelta)	
+           - [x] repr(timedelta)
+- [x] math module
+   - [x] ceil(x)	
+   - [x] copysign(x, y)	
+   - [x] factorial(x)	
+   - [x] floor(x)
+   - [x] gcd(x, y)
+   - [x] isinf(x)	
+   - [x] isnan(x)
+   - [x] exp(x)	
+   - [x] log(x[, b])	
+   - [x] log1p(x)
+   - [x] log2(x)	
+   - [x] log10(x)	
+   - [x] pow(x, y)	
+   - [x] sqrt(x)	
+   - [x] acos(x)
+   - [x] asin(x)	
+   - [x] atan(x)	
+   - [x] cos(x)	
+   - [x] sin(x)	
+   - [x] tan(x)	
+   - [x] degrees(x)	
+   - [x] radians(x)	
+   - [x] cosh(x)	
+   - [x] sinh(x)	
+   - [x] tanh(x)	
+   - [x] gamma(x)
+- [x] random module
+   - [x] seed()	
+   - [x] getstate()	
+   - [x] setstate()	
+   - [x] getrandbits()	
+   - [x] randrange()	
+   - [x] randint()	
+   - [x] choice()	
+   - [x] choices()	
+   - [x] sample()	
+   - [x] random()	
+   - [x] uniform()	
+   - [x] triangular()	
+   - [x] betavariate()	
+   - [x] expovariate()	
+   - [x] gammavariate()	
+   - [x] gauss()	
+   - [x] lognormvariate()	
+   - [x] normalvariate()	
+   - [x] vonmisesvariate()	
+   - [x] paretovariate()	
+   - [x] weibullvariate()
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python datetime module](https://www.geeksforgeeks.org/python-datetime-module/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python DateTime – Timedelta Class](https://www.geeksforgeeks.org/python-datetime-timedelta-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Math Module](https://www.geeksforgeeks.org/python-datetime-datetime-class/) 
+  _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Random Module](https://www.geeksforgeeks.org/python-random-module/) 
+  _____    
+ 
+![42](https://user-images.githubusercontent.com/106388215/186966015-fee73db0-a15b-4623-9d9e-1aba46f4930b.png)
+
+### :date: *DAY 43*
+* :calendar: 27/08/2022 Saturday
+- [x] Python Debugger
+   - [x] pdb module
+       - [x] set_trace()
+   - [x] Timing the python code
+       - [x] time module
+       - [x] timeit module 
+       - [x] %%timeit
+       - [x] datetime
+          - [x] now()
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [How to check the execution time of Python script ?](https://www.geeksforgeeks.org/how-to-check-the-execution-time-of-python-script/) 
+ _____
+ 
+ ![43](https://user-images.githubusercontent.com/106388215/187040588-a90956a3-cede-484e-a07c-648960a643bf.png)
+
+### :date: *DAY 44*
+* :calendar: 28/08/2022 Sunday
+- [x] ZIPPING AND UNZIPPING FILE 
+   - [x] zipfile module
+       - [x] ZipFile()
+       - [x] namelist()
+       - [x] infolist()
+       - [x] extract()
+       - [x] extractall()
+    - [x] shutil module
+       - [x] make_archive()
+       - [x] unpack_archive()
+- [x] GUI WITH PYTHON 
+   - [x] tkinter module
+      - [x] window
+         - [x] Tk() class
+      - [x] widget
+         - [x] Label() class
+            - [x] pack()
+            - [x] mainloop()
+      - [x] hello world GUI Program       
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Introduction to Tkinter](https://www.geeksforgeeks.org/introduction-to-tkinter/) 
+ _____
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python GUI Programming With Tkinter](https://realpython.com/python-gui-tkinter/)
+ ________
+ 
+  ![44](https://user-images.githubusercontent.com/106388215/187087514-6fe62779-c510-4ede-9b2a-86fd9f1cf1df.png)
+
+### :date: *DAY 45*
+* :calendar: 30/08/2022 Tuesday
+- [x] tkinter module
+   - [x] Working With Widgets
+       - [x] Label
+          - [x] Displaying Text With Label Widgets
+       - [x] Button
+          - [x] Displaying Clickable Buttons With Button Widgets
+          - [x] Add style to tkinter button
+
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ <a href="url"><img src="https://files.realpython.com/media/real-python-logo-square.28474fda9228.png" align="left" height="48" width="48" ></a>[Python GUI Programming With Tkinter](https://realpython.com/python-gui-tkinter/)
+ ________         
+ 
+ ![45](https://user-images.githubusercontent.com/106388215/187487697-5d179632-9e66-4ba6-9d50-7d73c0a32078.png)
 
 
+### :date: *DAY 46*
+* :calendar: 31/08/2022 Wednesday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Radiobutton
+      - [x] Checkbutton 
+      - [x] Canvas
+      - [x] Combobox
+      - [x] maxsize() method 
+      - [x] minsize() method
+      - [x] resizable() method 
+      - [x] Entry 
+      - [x] USER_PASSWORD PROGRAM GUI
+      - [x] GMAIL GENERATOR PROGRAM GUI
+      
+      
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![46](https://user-images.githubusercontent.com/106388215/187716439-f072f0e6-5d58-40ea-9634-4b252f1b43bb.png)
+
+ ### :date: *DAY 47*
+* :calendar: 01/09/2022 Thursday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Text Widget
+      - [x] Message widget
+      - [x] Menus   
+      - [x] GMAIL GENERATOR PROGRAM GUI (UPDATE - it will going to display the gen gamil)
+      - [x] FILE MENU BAR GUI
+  
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ ![47](https://user-images.githubusercontent.com/106388215/187957653-1e7f0dbc-b3c3-413b-9d76-b76212b35606.png)
+
+
+### :date: *DAY 48*
+* :calendar: 02/09/2022 Friday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Menubutton widget
+      - [x] Spinbox widget
+      - [x] Progressbar widget
+      - [x] Scrollbar Widget
+      
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![48](https://user-images.githubusercontent.com/106388215/188198153-fe5ffa9f-e4d4-4757-8511-38da13f400bc.png)
+
+### :date: *DAY 49*
+* :calendar: 03/09/2022 Saturday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] ListBox 
+      - [x] Frame
+      - [x] double scrollbar
+      - [x] Scale
+      
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![49](https://user-images.githubusercontent.com/106388215/188277572-c61e18ac-f519-4817-9b84-d23b54cca156.png)
+
+ ### :date: *DAY 50*
+* :calendar: 04/09/2022 Sunday
+- [x] tkinter module
+   - [x] Working With Widgets
+      - [x] Treeview widgets
+      - [x] Toplevel widget
+        - [x] file dialogs
+        - [x] MessageBox Widget
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![50](https://user-images.githubusercontent.com/106388215/188317345-13c914dc-44fc-4b53-be97-f36707881b3a.png)
+
+ ### :date: *DAY 51*
+* :calendar: 05/09/2022 Monday
+- [x] tkinter module
+   - [x] Toplevel Widgets
+      - [x] Change Icon for Tkinter MessageBox
+      - [x] Choose color Dialog
+   - [x] Geometry Management
+      - [x] Place() method 
+      - [x] Grid() method 
+      - [x] Pack() method 
+      - [x] PanedWindow Widget 
+   - [x] Binding Functions
+   
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![51](https://user-images.githubusercontent.com/106388215/188465231-b75aa2d8-ab0b-440d-a66b-1d7efd124867.png)
+
+### :date: *DAY 52*
+* :calendar: 06/09/2022 Tuesday
+- [x] tkinter module
+   - [x] Working with Images in Tkinter
+- [x] Clock[GUI]--Project-3
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [Python Tkinter Tutorial](https://www.geeksforgeeks.org/python-tkinter-tutorial/?ref=lbp) 
+ _____
+ 
+ ![52](https://user-images.githubusercontent.com/106388215/188689584-d103746e-4db5-47b0-9331-cd13bb67388c.png)
+
+### :date: *DAY 53*
+* :calendar: 07/09/2022 Wednesday
+- [x] GUI Register And Login System Project Using Tkinter Project 4
+
+
+
+https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027-9771-3a1f891cd57c.mp4
+
+### :date: *DAY 54*
+* :calendar: 08/09/2022 Thrusday
+- [x] GUI Register And Login System Project Using Tkinter Project 4
+   - [x] Added Singup Button Function And Window
+   
+   ![54](https://user-images.githubusercontent.com/106388215/189153680-98041c16-7eb1-4742-8341-1b76aa4c5a53.png)
+
+
+
+### :date: *DAY 55*
+* :calendar: 09/09/2022 Friday
+- [x] GUI Register And Login System Project Using Tkinter Project 4 (COMPLETED)
+   - [x] Merged Signup Button And Sign-in And Their Window
+   - [x] Converted .py to .exe with logo and database
+ 
+![55](https://user-images.githubusercontent.com/106388215/189419906-d15e68c7-0ecb-408f-8bed-b908b7a851b5.png)
+
+### :date: *DAY 56*
+* :calendar: 10/09/2022 Saturday
+- [x] Basic of c++
+- [x] first program
+- [x] section challenge problem solved
+
+![56](https://user-images.githubusercontent.com/106388215/189494797-91ec62c6-ef8e-46db-b885-18dc59bd4765.png)
+
+### :date: *DAY 57*
+* :calendar: 11/09/2022 Sunday
+- [x] Preprocesser
+- [x] comments
+- [x] Namespaces
+- [x] Basic I/O 
+
+![57](https://user-images.githubusercontent.com/106388215/189539571-bbae16d6-16c8-4199-9b07-10e405f5f472.png)
+
+### :date: *DAY 58*
+* :calendar: 12/09/2022 Monday
+- [x] Variables
+- [x] global and local variables
+- [x] data types
+
+![58](https://user-images.githubusercontent.com/106388215/189682618-343a0501-37b7-4fe6-912d-d0ab7522ebd2.png)
+
+### :date: *DAY 59*
+* :calendar: 13/09/2022 Tuesday
+- [x] climit library
+- [x] sizeof function
+- [x] section challenge
+- [x] array
+- [x] multi-dimension array
+
+![59](https://user-images.githubusercontent.com/106388215/189964028-8e45dff3-8953-438a-a67e-ef8f7c8f5459.png)
+
+
+### :date: *DAY 60*
+* :calendar: 14/09/2022 Wenesday
+- [x] Vector
+- [x] 2-d Vector
+- [x] at() method
+- [x] push_back() method
+
+![60](https://user-images.githubusercontent.com/106388215/190201842-e8726dd9-03ed-43d9-acdc-8eff284f479b.png)
+
+      
 
 ## Contributors
 
