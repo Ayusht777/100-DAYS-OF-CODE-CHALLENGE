@@ -1531,6 +1531,20 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 ![62](https://user-images.githubusercontent.com/106388215/191409098-1cb4cf75-cc29-491d-a99b-1928f3a76c36.png)
 
 
+### :date: *DAY 63*
+* :calendar: 21/09/2022 Wednesday 
+- [x] control flow
+- [x] switch-case
+- [x] conditional operator 
+- [x] looping 
+   - [x] for loop
+   - [x] range base loop
+   
+ ![63](https://user-images.githubusercontent.com/106388215/191535760-17a0d3dc-7cd1-4059-bbd5-fcfdbb502d86.png)
+
+   
+
+
 
 ## Contributors
 
