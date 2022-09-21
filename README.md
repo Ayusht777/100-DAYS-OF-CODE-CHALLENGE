@@ -1518,7 +1518,19 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![61](https://user-images.githubusercontent.com/106388215/190446433-f8aa7eeb-2329-492b-bb67-b9e879775e11.png)
 
-      
+### :date: *DAY 62*
+* :calendar: 20/09/2022 Tuseday    
+- [x] Mixed Expressions and Conversions
+- [x] Testing for Equality
+- [x] Relational Operators
+- [x] Logical Operators
+- [x] Compound Assignment Operators
+- [x] Operator Precedence
+- [x] Section Challenge
+
+![62](https://user-images.githubusercontent.com/106388215/191409098-1cb4cf75-cc29-491d-a99b-1928f3a76c36.png)
+
+
 
 ## Contributors
 
