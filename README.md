@@ -1555,8 +1555,21 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![64](https://user-images.githubusercontent.com/106388215/191811540-1d790d86-3101-4934-a4a5-b1d81cbaabea.png)
 
-   
+### :date: *DAY 64*
+* :calendar: 22/09/2022 Thrusday 
+- [x] character function
+- [x] c-style strings
+- [x] c++ strings
+    - [x] Raw string
+    - [x] string conversion to number
 
+*:bookmark_tabs: The Courses and website where I learn about this topic's.**
+ _____    
+ <a href="url"><img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png" align="left" height="48" width="48" ></a>
+ [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/?ref=ghm) 
+ _____
+
+![65](https://user-images.githubusercontent.com/106388215/191985632-9468ed59-b966-4711-9fef-c55e038a5105.png)
 
 
 ## Contributors
