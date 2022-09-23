@@ -1542,6 +1542,19 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
    
  ![63](https://user-images.githubusercontent.com/106388215/191535760-17a0d3dc-7cd1-4059-bbd5-fcfdbb502d86.png)
 
+
+
+### :date: *DAY 64*
+* :calendar: 22/09/2022 Thrusday 
+- [x] while loop
+- [x] do-while loop
+- [x] continue and break statement
+- [x] nested loop
+- [x] infinite loop
+- [x] section challenge
+
+![64](https://user-images.githubusercontent.com/106388215/191811540-1d790d86-3101-4934-a4a5-b1d81cbaabea.png)
+
    
 
 
