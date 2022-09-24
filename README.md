@@ -1555,8 +1555,8 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![64](https://user-images.githubusercontent.com/106388215/191811540-1d790d86-3101-4934-a4a5-b1d81cbaabea.png)
 
-### :date: *DAY 64*
-* :calendar: 22/09/2022 Thrusday 
+### :date: *DAY 65*
+* :calendar: 23/09/2022 Friday 
 - [x] character function
 - [x] c-style strings
 - [x] c++ strings
@@ -1570,6 +1570,14 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  _____
 
 ![65](https://user-images.githubusercontent.com/106388215/191985632-9468ed59-b966-4711-9fef-c55e038a5105.png)
+
+### :date: *DAY 66*
+* :calendar: 24/09/2022 Saturday 
+- [x] Section challenge
+- [x] Functions
+- [x] Function prototype
+
+![66](https://user-images.githubusercontent.com/106388215/192111518-a5dc39cf-ea06-4f7f-aed4-609af794e34e.png)
 
 
 ## Contributors
