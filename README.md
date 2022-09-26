@@ -1580,6 +1580,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 ![66](https://user-images.githubusercontent.com/106388215/192111518-a5dc39cf-ea06-4f7f-aed4-609af794e34e.png)
 
 
+### :date: *DAY 67*
+* :calendar: 25/09/2022 Sunday 
+- [x] Function Parameters and the return Statement
+- [x] Default Argument Values
+- [x] Overloading Functions
+- [x] Passing Arrays to Functions
+
+![67](https://user-images.githubusercontent.com/106388215/192154146-eb9afc2b-b1f1-4860-b20b-d046c8461dcc.png)
+
+
 ## Contributors
 
   * ayush talesara : :e-mail: talesarayush@gmail.com
