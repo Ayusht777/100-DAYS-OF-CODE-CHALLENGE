@@ -1589,6 +1589,17 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![67](https://user-images.githubusercontent.com/106388215/192154146-eb9afc2b-b1f1-4860-b20b-d046c8461dcc.png)
 
+### :date: *DAY 68*
+* :calendar: 26/09/2022 Monday 
+- [x] Pass by Reference
+- [x] Scope Rules
+- [x] How do Function Calls Work
+- [x] inline Functions
+- [x] Recursive Functions
+
+![68](https://user-images.githubusercontent.com/106388215/192329876-d107efc4-4c1c-4090-a762-c4ef4df71db4.png)
+
+
 
 ## Contributors
 
