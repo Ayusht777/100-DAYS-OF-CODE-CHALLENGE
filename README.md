@@ -1599,6 +1599,21 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![68](https://user-images.githubusercontent.com/106388215/192329876-d107efc4-4c1c-4090-a762-c4ef4df71db4.png)
 
+### :date: *DAY 69*
+* :calendar: 27/09/2022 Tuesday
+- [x] section challenge
+- [x] Pointers
+- [x] Declaring Pointers
+- [x] Accessing the Pointer Address and Storing Address in a Pointer
+- [x] Dereferencing a Pointer
+
+![69](https://user-images.githubusercontent.com/106388215/192566066-715cef3c-69c1-4636-a388-999b2a69399c.png)
+
+
+
+
+
+
 
 
 ## Contributors
