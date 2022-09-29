@@ -1610,6 +1610,14 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 ![69](https://user-images.githubusercontent.com/106388215/192566066-715cef3c-69c1-4636-a388-999b2a69399c.png)
 
 
+### :date: *DAY 70*
+* :calendar: 29/09/2022 Thrusday
+- [x] Dynamic Memory Allocation
+- [x] Relationship Between Arrays and Pointers
+- [x] Pointer Arithmetic
+- [x] Const and Pointers 
+
+![70](https://user-images.githubusercontent.com/106388215/193091881-2154be48-e8a7-40c0-a0b8-97b385e049ae.png)
 
 
 
