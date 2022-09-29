@@ -1,4 +1,4 @@
-// Day - 68 of 100dayofcode [26/09/2022 Monday]
+// Day - 69 of 100dayofcode [27/09/2022 Tuesday]
 
 #include <iostream>
 #include<string> 
