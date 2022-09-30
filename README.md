@@ -1619,6 +1619,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![70](https://user-images.githubusercontent.com/106388215/193091881-2154be48-e8a7-40c0-a0b8-97b385e049ae.png)
 
+### :date: *DAY 71*
+* :calendar: 30/09/2022 Friday
+- [x] Passing Pointers to Functions
+- [x] Returning a Pointer from a Function
+- [x] Reference
+- [x] L-values and R-values
+- [x] Debugger
+
+![71](https://user-images.githubusercontent.com/106388215/193314041-f030745a-56fe-401a-9034-cbd8614e20f8.gif)
+
 
 
 
