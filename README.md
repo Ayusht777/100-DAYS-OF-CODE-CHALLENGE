@@ -1629,6 +1629,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![71](https://user-images.githubusercontent.com/106388215/193314041-f030745a-56fe-401a-9034-cbd8614e20f8.gif)
 
+### :date: *DAY 72*
+* :calendar: 01/10/2022 Saturday
+- [x] Section challenge
+- [x] Object-Oriented Programming
+- [x] Classes and Objects
+- [x] Declaring a Class and Creating Objects
+- [x] Accessing Class Members
+
+![72](https://user-images.githubusercontent.com/106388215/193421305-f3b8e502-16c9-4caa-a8bd-4825169b9e42.gif)
 
 
 
