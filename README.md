@@ -1639,7 +1639,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![72](https://user-images.githubusercontent.com/106388215/193421305-f3b8e502-16c9-4caa-a8bd-4825169b9e42.gif)
 
+### :date: *DAY 73*
+* :calendar: 02/10/2022 Sunday
+- [x] public and private
+- [x] Implementing Member Methods
+- [x] Constructors and Destructors
+- [x] The Default Constructor
+- [x] Overloading Constructors
 
+![73](https://user-images.githubusercontent.com/106388215/193466036-30e361f4-87db-4eb2-86a7-b4a9a6b735f4.gif)
 
 
 
