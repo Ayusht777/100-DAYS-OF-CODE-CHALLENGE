@@ -1649,6 +1649,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![73](https://user-images.githubusercontent.com/106388215/193466036-30e361f4-87db-4eb2-86a7-b4a9a6b735f4.gif)
 
+### :date: *DAY 74*
+* :calendar: 03/10/2022 Monday
+- [x] Constructor Initialization lists
+- [x] Delegating Constructors
+- [x] Constructor Parameters and Default Values
+- [x] Copy Constructor
+- [x] Shallow Copying with the Copy Constructor
+
+![74](https://user-images.githubusercontent.com/106388215/193603560-e9b965dc-fd4d-4cb7-9d1e-3d25adf53a5e.gif)
 
 
 ## Contributors
