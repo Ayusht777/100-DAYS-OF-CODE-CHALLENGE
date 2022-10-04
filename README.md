@@ -1969,6 +1969,23 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] Shallow Copying with the Copy Constructor
 
 ![74](https://user-images.githubusercontent.com/106388215/193603560-e9b965dc-fd4d-4cb7-9d1e-3d25adf53a5e.gif)
+ 
+
+### :date: _DAY 75_
+
+- :calendar: 04/10/2022 Tuesday
+
+* [x] Deep Copying with the Copy Constructor
+* [x] Move Constructors
+* [x] The 'this' Pointer
+* [x] Using const with Classes
+* [x] Static Class Members
+* [x] Structs vs Classes
+* [x] Friends of a class
+
+![75](https://user-images.githubusercontent.com/106388215/193871150-5a5187a9-5ff4-484b-9f31-c4f23cb00ed2.gif)
+ 
+  
 
 ## Contributors
 
