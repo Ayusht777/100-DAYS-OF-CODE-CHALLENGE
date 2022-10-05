@@ -1985,7 +1985,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![75](https://user-images.githubusercontent.com/106388215/193871150-5a5187a9-5ff4-484b-9f31-c4f23cb00ed2.gif)
  
-  
+ 
+### :date: _DAY 76_
+
+- :calendar: 05/10/2022 Wednesday
+
+* [x] Operator Overloading
+
+![76](https://user-images.githubusercontent.com/106388215/194114604-f70eaaf9-2872-438a-b22a-c57ed1698a21.gif)
+
 
 ## Contributors
 
