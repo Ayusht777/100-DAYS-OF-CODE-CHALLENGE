@@ -1994,6 +1994,19 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![76](https://user-images.githubusercontent.com/106388215/194114604-f70eaaf9-2872-438a-b22a-c57ed1698a21.gif)
 
+ 
+### :date: _DAY 77_
+
+- :calendar: 08/10/2022 Saturday
+
+* [x] What is Inheritance
+* [x] Terminology and Notation
+* [x] Inheritance vs. Composition
+* [x] Deriving Classes from Existing Classes
+
+![77](https://user-images.githubusercontent.com/106388215/194719091-b329b1ef-2fa4-4b87-9299-df960a00108a.gif)
+
+
 
 ## Contributors
 
