@@ -2006,7 +2006,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![77](https://user-images.githubusercontent.com/106388215/194719091-b329b1ef-2fa4-4b87-9299-df960a00108a.gif)
 
+### :date: _DAY 78_
 
+- :calendar: 09/10/2022 Sunday
+
+* [x] Protected Members and Class Access
+* [x] Constructors and Destructors
+* [x] Passing Arguments to Base Class Constructors
+* [x] Redefining Base Class Methods
+
+![78](https://user-images.githubusercontent.com/106388215/194766412-97c2ee45-37e3-4863-94e6-a673de11095a.gif)
 
 ## Contributors
 
