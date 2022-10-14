@@ -2017,6 +2017,44 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![78](https://user-images.githubusercontent.com/106388215/194766412-97c2ee45-37e3-4863-94e6-a673de11095a.gif)
 
+### :date: _DAY 79_
+
+- :calendar: 10/10/2022 Monday
+
+* [x] Single inheritance
+* [x] Multilevel inheritance
+* [x] Multiple inheritance
+* [x] Hierarchical inheritance
+* [x] Hybrid inheritance
+
+
+### :date: _DAY 80_
+
+- :calendar: 11/10/2022 Tuesday
+
+* [x] encapsulation
+* [x] abstraction
+
+
+
+### :date: _DAY 81_
+
+- :calendar: 14/10/2022 Friday
+
+* [x] What is Polymorphism
+* [x] Using a Base Class Pointer
+* [x] Virtual Functions
+* [x] Virtual Destructors
+* [x] Using the Override Specifier
+* [x] Using the Final Specifier
+* [x] Using Base Class References
+
+![81](https://user-images.githubusercontent.com/106388215/195906992-b1004a0c-e41f-431d-812d-310e171227d6.gif)
+
+
+
+
+
 ## Contributors
 
 - ayush talesara : :e-mail: talesarayush@gmail.com
