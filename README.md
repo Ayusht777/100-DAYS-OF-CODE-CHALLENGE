@@ -2052,6 +2052,21 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 ![81](https://user-images.githubusercontent.com/106388215/195906992-b1004a0c-e41f-431d-812d-310e171227d6.gif)
 
 
+### :date: _DAY 82_
+
+- :calendar: 15/10/2022 Saturday
+
+* [x] Some Issues with Raw Pointers
+* [x] What is a Smart Pointer_ Ownership and RAII
+* [x] Unique Pointers
+* [x] Shared Pointers
+* [x] Weak Pointers
+* [x] Custom Deleters
+* [x] Basic Concepts and a Simple Example_ Dividing by Zero
+* [x] Throwing an Exception from a Function
+
+![82](https://user-images.githubusercontent.com/106388215/195999521-179c7c05-a008-491c-a15d-98f95aed14ae.gif)
+
 
 
 
