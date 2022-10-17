@@ -2027,6 +2027,9 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] Hierarchical inheritance
 * [x] Hybrid inheritance
 
+![79-min](https://user-images.githubusercontent.com/106388215/196046407-201946c6-3cfa-46b4-810e-1ea5087fefc6.gif)
+
+
 
 ### :date: _DAY 80_
 
@@ -2067,6 +2070,18 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![82](https://user-images.githubusercontent.com/106388215/195999521-179c7c05-a008-491c-a15d-98f95aed14ae.gif)
 
+### :date: _DAY 83_
+
+- :calendar: 16/10/2022 Sunday
+
+* [x] Stack Unwinding and How it Works
+* [x] Creating User-Defined Exception Classes
+* [x] Class Level Exceptions
+* [x] The C++ std__exception Class Hierarchy
+* [x] Files, Streams and I_O
+* [x] Stream Manipulators 
+
+![83](https://user-images.githubusercontent.com/106388215/196046528-efe554ba-522c-43d9-89aa-510291bdde54.gif)
 
 
 
