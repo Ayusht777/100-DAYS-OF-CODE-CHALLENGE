@@ -2083,6 +2083,19 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![83](https://user-images.githubusercontent.com/106388215/196046528-efe554ba-522c-43d9-89aa-510291bdde54.gif)
 
+### :date: _DAY 84_
+
+- :calendar: 17/10/2022 Monday
+
+* [x] Stream Manipulators - boolean
+* [x] Stream Manipulators - integers
+* [x] Stream Manipulators - floating point
+* [x] Stream Manipulators - align and fill
+* [x] Reading from a Text File
+* [x] Reading from a Text File - Live Demo - Part 1
+
+![84](https://user-images.githubusercontent.com/106388215/196243377-c917b9c0-5b46-44ae-b717-21356e84e6ae.gif)
+
 
 
 ## Contributors
