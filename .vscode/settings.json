@@ -5,6 +5,7 @@
         "typeinfo": "cpp",
         "sstream": "cpp",
         "ostream": "cpp",
-        "iomanip": "cpp"
+        "iomanip": "cpp",
+        "limits": "cpp"
     }
 }

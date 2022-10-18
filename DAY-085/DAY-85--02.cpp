@@ -12,13 +12,14 @@ int main(){
 
     }
 
-    string text{};
+    char x {};
 
-    while (getline(file,text))
+    while (file.get(x))
     {
-        cout<<text<<endl;
+        cout<<x;
     }
 
+    cout<<endl;
     file.close();
     
 

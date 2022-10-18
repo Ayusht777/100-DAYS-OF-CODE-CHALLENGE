@@ -2,11 +2,12 @@
 #include<fstream>
 #include<iomanip>
 
+
 using namespace std;
 
 int main(){
-    ifstream file;
-    file.open("poem.txt");
+    ofstream file;
+    file.open("new.txt");
     if(!file){
         cerr<<"File not opened"<<endl;
 
@@ -14,10 +15,12 @@ int main(){
 
     string text{};
 
-    while (getline(file,text))
-    {
-        cout<<text<<endl;
-    }
+    cout<<"Enter some Text : ";
+    getline(cin,text);
+
+    file<<text;
+    cout<<"\n"<<text<<endl;
+    
 
     file.close();
     
