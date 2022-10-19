@@ -2096,6 +2096,19 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![84](https://user-images.githubusercontent.com/106388215/196243377-c917b9c0-5b46-44ae-b717-21356e84e6ae.gif)
 
+### :date: _DAY 85_
+
+- :calendar: 18/10/2022 Tuesday
+
+* [x] Reading from a Text File - Live Demo - Part 2
+* [x] Section Challenge
+* [x] Writing to a Text File
+* [x] Writing to a Text File - Live Demo
+* [x] Using String Streams
+* [x] File locations with some Popular IDEs
+* [x] Structure of a Lambda Expression
+
+![85](https://user-images.githubusercontent.com/106388215/196499690-35e2eade-2451-4d98-b11b-16081a5ec859.gif)
 
 
 ## Contributors
