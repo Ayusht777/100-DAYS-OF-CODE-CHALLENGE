@@ -2114,7 +2114,7 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 - :calendar: 19/10/2022 Wednesday
   
-![86](https://user-images.githubusercontent.com/106388215/196760861-b1c380ab-05a1-4ba3-9dd1-57901d5e8b24.gif)
+
 * [x] Stateless Lambda Expressions
 * [x] Stateless Lambda Expressions Demo 
 * [x] What is the STL_
@@ -2122,6 +2122,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] Generic Programming with Function Templates
 
   ![86](https://user-images.githubusercontent.com/106388215/196761038-3b4e4d3d-87b0-4e4b-806d-71ea9f3bf302.gif)
+
+ ### :date: _DAY 87_
+
+- :calendar: 20/10/2022 Thrusday
+  
+* [x] Generic Programming with Class Templates
+* [x] Creating a Generic Array Template Class
+* [x] Introduction to STL Containers
+  
+  ![87](https://user-images.githubusercontent.com/106388215/197019750-fc29392f-5801-480b-80cd-65d278f95400.gif)
 
 
 
