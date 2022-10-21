@@ -2133,6 +2133,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
   
   ![87](https://user-images.githubusercontent.com/106388215/197019750-fc29392f-5801-480b-80cd-65d278f95400.gif)
 
+ ### :date: _DAY 88_
+
+- :calendar: 21/10/2022 Friday
+
+* [x] Introduction to STL Iterators
+* [x] Introduction to Iterators - Demo
+* [x] Introduction to STL Algorithms
+
+![88](https://user-images.githubusercontent.com/106388215/197251312-18105dfa-7014-4276-8804-0dd4049102e5.gif)
 
 
 ## Contributors
