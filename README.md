@@ -2153,6 +2153,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![89](https://user-images.githubusercontent.com/106388215/197352798-12cd744e-d0cb-49f3-9d07-f5b397314318.gif)
 
+ ### :date: _DAY 90_
+ 
+ - :calendar: 23/10/2022 Sunday
+ 
+ * [x] DSA IN C++
+ * [x] PATTERN'S QUESTIONS (20+)
+ 
+ ![90](https://user-images.githubusercontent.com/106388215/197400891-063e7b83-c077-4da1-b877-cfce9d687bae.gif)
+
+ 
 
 ## Contributors
 
