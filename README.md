@@ -2143,6 +2143,16 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![88](https://user-images.githubusercontent.com/106388215/197251312-18105dfa-7014-4276-8804-0dd4049102e5.gif)
 
+ ### :date: _DAY 89_
+
+- :calendar: 22/10/2022 Saturday
+
+* [x] Introduction to Algorithms - Demo
+* [x] Sequence Container - Array
+* [x] Sequence Containers - Vector
+
+![89](https://user-images.githubusercontent.com/106388215/197352798-12cd744e-d0cb-49f3-9d07-f5b397314318.gif)
+
 
 ## Contributors
 
