@@ -2162,6 +2162,17 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
  ![90](https://user-images.githubusercontent.com/106388215/197400891-063e7b83-c077-4da1-b877-cfce9d687bae.gif)
 
+  ### :date: _DAY 90_
+ 
+ - :calendar: 24/10/2022 Sunday
+  
+ * [x] Bitwise Operator
+ * [x] LeetCode Questions
+    * [x] Subtract the Product and Sum of Digits of an Integer
+    * [x] Number of 1 Bits
+ 
+ ![91](https://user-images.githubusercontent.com/106388215/197555427-9cbed856-4072-4adf-b8df-d7b907a2cfbd.gif)
+
  
 
 ## Contributors
