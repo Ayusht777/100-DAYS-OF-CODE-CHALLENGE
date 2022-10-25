@@ -2162,9 +2162,9 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
  ![90](https://user-images.githubusercontent.com/106388215/197400891-063e7b83-c077-4da1-b877-cfce9d687bae.gif)
 
-  ### :date: _DAY 90_
+  ### :date: _DAY 91_
  
- - :calendar: 24/10/2022 Sunday
+ - :calendar: 24/10/2022 Monday
   
  * [x] Bitwise Operator
  * [x] LeetCode Questions
@@ -2173,6 +2173,19 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
  ![91](https://user-images.githubusercontent.com/106388215/197555427-9cbed856-4072-4adf-b8df-d7b907a2cfbd.gif)
 
+  ### :date: _DAY 92_
+ 
+ - :calendar: 25/10/2022 Tuesday
+  
+* [x] Binary To Decimal Conversion
+* [x] Decimal To Binary Conversion
+* [x] Reverse Integer
+* [x] Complement of Base 10 Integer
+* [x] Power of Two
+ 
+  ![92](https://user-images.githubusercontent.com/106388215/197846932-ab4ba2b3-387a-4dfa-8fc1-93c88feac13b.gif)
+
+ 
  
 
 ## Contributors
