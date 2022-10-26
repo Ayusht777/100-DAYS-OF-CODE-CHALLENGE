@@ -2185,8 +2185,15 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
   ![92](https://user-images.githubusercontent.com/106388215/197846932-ab4ba2b3-387a-4dfa-8fc1-93c88feac13b.gif)
 
+  ### :date: _DAY 93_
  
+ - :calendar: 26/10/2022 Wednesday
+* [x] maximum and minimum number in array
+* [x] sum of elements of an array
+* [x] search element in array
+* [x] reverse an array 
  
+![93](https://user-images.githubusercontent.com/106388215/198071285-a69ca1f8-da8c-4326-86d5-fcec35e5d92e.gif)
 
 ## Contributors
 
