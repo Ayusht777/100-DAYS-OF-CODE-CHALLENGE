@@ -1,6 +1,6 @@
 #include<iostream>
 
-//max and minmum
+//
 
 using namespace std;
 
