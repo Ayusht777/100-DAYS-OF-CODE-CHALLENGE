@@ -2195,6 +2195,20 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
 ![93](https://user-images.githubusercontent.com/106388215/198071285-a69ca1f8-da8c-4326-86d5-fcec35e5d92e.gif)
 
+
+
+  ### :date: _DAY 94_
+ 
+ - :calendar: 27/10/2022 Thrusday
+ 
+* [x] Swap To Alternative element in array
+* [x] Find Unique
+* [x] Unique Number of Occurrences
+
+![94](https://user-images.githubusercontent.com/106388215/198351997-7c00a12d-54f6-4dc1-9375-7bd3fb7aa6eb.gif)
+
+ 
+ 
 ## Contributors
 
 - ayush talesara : :e-mail: talesarayush@gmail.com
