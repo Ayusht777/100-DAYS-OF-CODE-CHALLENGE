@@ -2207,7 +2207,20 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
 ![94](https://user-images.githubusercontent.com/106388215/198351997-7c00a12d-54f6-4dc1-9375-7bd3fb7aa6eb.gif)
 
+
+
+  ### :date: _DAY 95_
  
+ - :calendar: 28/10/2022 Friday
+ 
+* [x] find Array Intersection
+* [x] Pair Sum
+* [x] find Triplets
+* [x] sort 0 1
+* [x] sort 0 1 2 (To be continue..)
+
+ ![95](https://user-images.githubusercontent.com/106388215/198705917-389c39de-c841-4d81-9027-1b58e45ddcf6.gif)
+
  
 ## Contributors
 
