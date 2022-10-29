@@ -2221,7 +2221,18 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 
  ![95](https://user-images.githubusercontent.com/106388215/198705917-389c39de-c841-4d81-9027-1b58e45ddcf6.gif)
 
+
+  ### :date: _DAY 96_
  
+ - :calendar: 29/10/2022 Saturday
+ 
+* [x] sort 0 1 2
+* [x] Binary Search Algo
+* [x] First and Last Position of an Element In Sorted Array 
+* [x] Find total number of occurrences of an element in sorted array
+ 
+ ![96](https://user-images.githubusercontent.com/106388215/198846089-ac2164ad-8363-4c3b-b59f-63bbf4466a2b.gif)
+
 ## Contributors
 
 - ayush talesara : :e-mail: talesarayush@gmail.com
