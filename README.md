@@ -2232,6 +2232,17 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] Find total number of occurrences of an element in sorted array
  
  ![96](https://user-images.githubusercontent.com/106388215/198846089-ac2164ad-8363-4c3b-b59f-63bbf4466a2b.gif)
+  
+  
+  ### :date: _DAY 97_
+ 
+ - :calendar: 30/10/2022 Sunday
+  
+  * [x] Peak Index in a Mountain Array
+  * [x] Get Pivot Element in Array
+  
+  ![97](https://user-images.githubusercontent.com/106388215/198892308-488e648f-8ac1-47a7-b398-e4a54a65b616.gif)
+
 
 ## Contributors
 
