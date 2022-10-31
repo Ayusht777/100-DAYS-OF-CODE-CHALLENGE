@@ -19,7 +19,7 @@ int BinarySreach(int arr[], int size,int key)
 
     if (key>arr[mid]){
         start =mid +1;
-    }
+    } 
     else{
         end =mid-1;
     }
