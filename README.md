@@ -2038,6 +2038,7 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] encapsulation
 * [x] abstraction
 
+![80](https://user-images.githubusercontent.com/106388215/199290236-de45e31d-ce46-4b68-9a17-f362a3017a16.gif)
 
 
 ### :date: _DAY 81_
@@ -2252,7 +2253,14 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
  ![98](https://user-images.githubusercontent.com/106388215/199053097-c46ff8f1-9737-488e-a1cb-5f54e9e27002.gif)
 
+   ### :date: _DAY 99_
  
+ - :calendar: 01/11/2022 Tuesday
+ 
+ * [x] Allocate Books
+ 
+ ![99](https://user-images.githubusercontent.com/106388215/199284690-b9f47fcc-964c-4359-bf2f-a29a97962e4d.gif)
+
  
 ## Contributors
 
