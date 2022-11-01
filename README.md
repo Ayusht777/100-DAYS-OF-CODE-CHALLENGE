@@ -2243,7 +2243,17 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
   
   ![97](https://user-images.githubusercontent.com/106388215/198892308-488e648f-8ac1-47a7-b398-e4a54a65b616.gif)
 
+  ### :date: _DAY 98_
+ 
+ - :calendar: 31/10/2022 Monday
+ 
+ * [x] Search In Rotated Sorted Array 
+ * [x] Square root of an element using binary search
+ 
+ ![98](https://user-images.githubusercontent.com/106388215/199053097-c46ff8f1-9737-488e-a1cb-5f54e9e27002.gif)
 
+ 
+ 
 ## Contributors
 
 - ayush talesara : :e-mail: talesarayush@gmail.com
