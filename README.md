@@ -2027,7 +2027,8 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] Hierarchical inheritance
 * [x] Hybrid inheritance
 
-![79-min](https://user-images.githubusercontent.com/106388215/196046407-201946c6-3cfa-46b4-810e-1ea5087fefc6.gif)
+![79](https://user-images.githubusercontent.com/106388215/199291935-f887a03d-148d-4ba9-b323-c4d1b1e5ee68.gif)
+
 
 
 
@@ -2038,6 +2039,7 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
 * [x] encapsulation
 * [x] abstraction
 
+![80](https://user-images.githubusercontent.com/106388215/199292141-796db4be-4a94-4112-b64c-8ec2ea63b974.gif)
 
 
 ### :date: _DAY 81_
@@ -2252,7 +2254,14 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  
  ![98](https://user-images.githubusercontent.com/106388215/199053097-c46ff8f1-9737-488e-a1cb-5f54e9e27002.gif)
 
+   ### :date: _DAY 99_
  
+ - :calendar: 01/11/2022 Tuesday
+ 
+ * [x] Allocate Books
+ 
+ ![99](https://user-images.githubusercontent.com/106388215/199284690-b9f47fcc-964c-4359-bf2f-a29a97962e4d.gif)
+
  
 ## Contributors
 
