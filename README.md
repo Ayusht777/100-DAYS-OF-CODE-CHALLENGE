@@ -34,9 +34,9 @@
 
 ~~Creating At Least 4 Projects In Python.~~
 
-- [ ] Learning Data Structure & Algorithms.
+~~Learning Data Structure & Algorithms~~(on the go)
 
-- [ ] Solving Problem On DSA
+~~Solving Problem On DSA~~(on the go).
 
 ---
 
@@ -2276,6 +2276,41 @@ https://user-images.githubusercontent.com/106388215/188949477-91410dae-9ef1-4027
  ![100](https://user-images.githubusercontent.com/106388215/199490414-a5fcf62e-9717-498c-a0dc-f383bdcfc81c.png)
 
  
+<details><summary>CLICK ME FOR MORE-INFO</summary>
+<p>
+
+#### <a href="url"><img src="https://user-images.githubusercontent.com/106388215/179008268-b5b53150-636d-4f6d-b883-b057e6fee947.png" align="left" height="48" width="48" ></a>LINKDIN POST 
+
+
+```Hello 👋,Connections Today I finished the #100daysofcode.So in this challenge, I learned several things, not just about coding💻,But also that's why it's important to have a friend with progressive mindset that helps you push through this journey.
+Thanks my friend DIVYANSHU SAHU HARSHIT SHARMA for the support.
+_______________________________________________________
+📚 𝑻𝑯𝑬 𝑹𝑬𝑺𝑶𝑼𝑹𝑪𝑬𝑺 𝑾𝑯𝑰𝑪𝑯 𝑰 𝑼𝑺𝑬𝑫 𝑭𝑶𝑹 𝑳𝑬𝑨𝑹𝑵𝑰𝑵𝑮
+---------------------------------------------------------
+🐍𝗣𝗬𝗧𝗛𝗢𝗡 :-
+▪ 2022 Complete Python Boot-camp From Zero to Hero in Python by Jose Marcial Portilla
+▪ GeeksforGeeks,Real Python,Programiz,DataCamp
+
+🇨++ :-
+▪ Beginning C++ Programming - From Beginner to Beyond by Tim Buchalka
+▪ GeeksforGeeks,Programiz
+
+🄳🅂🄰 :-
+Love Babbar
+
+📃 𝖫𝖨𝖲𝖳 𝖠𝖫𝖫 𝖳𝖧𝖤 𝖳𝖮𝖯𝖨𝖢𝖲 𝖨'𝖵𝖤 𝖫𝖤𝖠𝖱𝖭𝖤𝖣 𝖳𝖮𝖣𝖠𝖸
+⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿⇿
+▶ Aggressive Cows
+
+🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸🔹🔸
+What Next ?
+I will Start My New challenge #100daysofdsa / #100daysofcode form
+Tomorrow or day after tomorrow.
+
+```
+
+</p>
+</details>
  
  
 ## Contributors
